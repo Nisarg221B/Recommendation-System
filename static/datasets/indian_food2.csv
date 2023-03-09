@@ -1,0 +1,305 @@
+name,ingredients,diet,flavor_profile,state,region
+Balu shahi,"Maida flour, yogurt, oil, sugar",vegetarian,sweet,West Bengal,East
+Boondi,"Gram flour, ghee, sugar",vegetarian,sweet,Rajasthan,West
+Gajar ka halwa,"Carrots, milk, sugar, ghee, cashews, raisins",vegetarian,sweet,Punjab,North
+Ghevar,"Flour, ghee, kewra, milk, clarified butter, sugar, almonds, pistachio, saffron, green cardamom",vegetarian,sweet,Rajasthan,West
+Gulab jamun,"Milk powder, plain flour, baking powder, ghee, milk, sugar, water, rose water",vegetarian,sweet,West Bengal,East
+Imarti,"Sugar syrup, lentil flour",vegetarian,sweet,West Bengal,East
+Jalebi,"Maida, corn flour, baking soda, vinegar, curd, water, turmeric, saffron, cardamom",vegetarian,sweet,Uttar Pradesh,North
+Kaju katli,"Cashews, ghee, cardamom, sugar",vegetarian,sweet,-1,-1
+Kalakand,"Milk, cottage cheese, sugar",vegetarian,sweet,West Bengal,East
+Kheer,"Milk, rice, sugar, dried fruits",vegetarian,sweet,-1,-1
+Laddu,"Gram flour, ghee, sugar",vegetarian,sweet,-1,-1
+Lassi,"Yogurt, milk, nuts, sugar",vegetarian,sweet,Punjab,North
+Nankhatai,"Refined flour, besan, ghee, powdered sugar, yoghurt, green cardamom",vegetarian,sweet,-1,-1
+Petha,"Firm white pumpkin, sugar, kitchen lime, alum powder",vegetarian,sweet,Uttar Pradesh,North
+Phirni,"Rice, sugar, nuts",vegetarian,sweet,Odisha,East
+Rabri,"Condensed milk, sugar, spices, nuts",vegetarian,sweet,Uttar Pradesh,North
+Sheera,"Semolina, ghee, nuts, milk",vegetarian,sweet,Maharashtra,West
+Singori,"Khoa, coconut, molu leaf",vegetarian,sweet,Uttarakhand,North
+Sohan halwa,"Corn flour, ghee, dry fruits",vegetarian,sweet,Uttar Pradesh,North
+Sohan papdi,"Gram flour, ghee, sugar, milk, cardamom",vegetarian,sweet,Maharashtra,West
+Chhena jalebi,"Chhena, sugar, ghee",vegetarian,sweet,Odisha,East
+Chhena kheeri,"Chhena, sugar, milk",vegetarian,sweet,Odisha,East
+Chhena poda,"Sugar, chenna cheese",vegetarian,sweet,Odisha,East
+Cham cham,"Flour, cream, sugar, saffron, lemon juice, coconut flakes",vegetarian,sweet,West Bengal,East
+Kheer sagar,"Chenna, condensed milk, sugar, saffron, cardamom",vegetarian,sweet,Odisha,East
+Ledikeni,"Chhena, sugar, ghee",vegetarian,sweet,West Bengal,East
+Lyangcha,"Flour, fried milk power, sugar syrup",vegetarian,sweet,Assam,North East
+Malapua,"Yoghurt, refined flour, ghee, fennel seeds",vegetarian,sweet,Bihar,North
+Mihidana,"Besan flour, sugar, ghee",vegetarian,sweet,West Bengal,East
+Misti doi,"Milk, jaggery",vegetarian,sweet,West Bengal,East
+Pantua,"Chhena, sugar, ghee, flour",vegetarian,sweet,West Bengal,East
+Pithe,"Rice flour, wheat flour",vegetarian,sweet,Assam,North East
+Rasabali,"Chenna, sweetened milk",vegetarian,sweet,Odisha,East
+Ras malai,"Chhena, reduced milk, pistachio",vegetarian,sweet,West Bengal,East
+Rasgulla,"Chhena, sugar, cardamom",vegetarian,sweet,West Bengal,East
+Sandesh,"Milk, sugar, saffron, cardamom",vegetarian,sweet,West Bengal,East
+Adhirasam,"Rice flour, jaggery, ghee, vegetable oil, elachi",vegetarian,sweet,West Bengal,East
+Ariselu,"Rice flour, jaggery, ghee",vegetarian,sweet,Andhra Pradesh,South
+Bandar laddu,"Besan, jaggery, cardamom powder, ghee, cashews and raisins, jaggery syrup, sugar",vegetarian,sweet,Andhra Pradesh,South
+Chikki,"Peanuts, jaggery",vegetarian,sweet,Maharashtra,West
+Dharwad pedha,"Milk, Sugar, Dharwadi buffalo milk",vegetarian,sweet,Karnataka,South
+Double ka meetha,"Loaf bread, milk",vegetarian,sweet,Telangana,South
+Gavvalu,"Rice flour, sugar, salt, ghee, semolina",vegetarian,sweet,Andhra Pradesh,South
+Kakinada khaja,"Wheat flour, sugar",vegetarian,sweet,Andhra Pradesh,South
+Kuzhi paniyaram,"Black lentils, rice",vegetarian,sweet,Kerala,South
+Mysore pak,"Besan flour, semolina, mung bean, jaggery, coconut, skimmed milk powder, sugar, ghee",vegetarian,sweet,Karnataka,South
+Obbattu holige,"Maida flour, turmeric, coconut, chickpeas, jaggery, ghee, cardamom",vegetarian,sweet,Karnataka,South
+Palathalikalu,"Rice flour, milk",vegetarian,sweet,Andhra Pradesh,South
+Poornalu,"Chana dal, jaggery",vegetarian,sweet,Andhra Pradesh,South
+Pongal,"Rice, jaggery, cashews, ghee",vegetarian,sweet,Tamil Nadu,South
+Pootharekulu,"Rice flour, powdered sugar, ghee",vegetarian,sweet,Andhra Pradesh,South
+Qubani ka meetha,"Apricots, sugar syrup",vegetarian,sweet,Telangana,South
+Sheer korma,"Vermicelli pudding, milk",vegetarian,sweet,Telangana,South
+Unni Appam,"Rice flour, banana, jaggery, coconut",vegetarian,sweet,Tamil Nadu,South
+Kajjikaya,"Rice flour, jaggery, coconut",vegetarian,sweet,Andhra Pradesh,South
+Anarsa,"Rice flour, jaggery, khus-khus seeds",vegetarian,sweet,Maharashtra,West
+Basundi,"Sugar, milk, nuts",vegetarian,sweet,Gujarat,West
+Dhondas,"Cucumber, rava",vegetarian,sweet,Maharashtra,West
+Doodhpak,"Milk, rice, sugar, dry fruits",vegetarian,sweet,Gujarat,West
+Mahim halwa,"Semolina, sugar",vegetarian,sweet,Maharashtra,West
+Modak,"Rice flour, coconut, jaggery ",vegetarian,sweet,Maharashtra,West
+Shankarpali,"Sugar, ghee, maida flour, semolina",vegetarian,sweet,Maharashtra,West
+Shrikhand,"Curd, sugar, saffron, cardamom",vegetarian,sweet,Maharashtra,West
+Sutar feni,"Maida, sugar, ghee",vegetarian,sweet,Maharashtra,West
+Maach Jhol,"Fish, potol, tomato, chillies, ginger, garlic",non vegetarian,spicy,Assam,North East
+Pork Bharta,"Boiled pork, onions, chillies, ginger and garlic",non vegetarian,spicy,Tripura,North East
+Chak Hao Kheer,"Rice, milk, sugar, cardamom",vegetarian,sweet,Manipur,North East
+Galho,"Rice, axone, salt, water, chillies, pork",non vegetarian,spicy,Nagaland,North East
+Aloo gobi,"Cauliflower, potato, garam masala, turmeric, curry leaves",vegetarian,spicy,Punjab,North
+Aloo tikki,"Rice flour, potato, bread crumbs, garam masala, salt",vegetarian,spicy,Punjab,North
+Aloo matar,"Potato, peas, chillies, ginger, garam masala, garlic",vegetarian,spicy,Punjab,North
+Aloo methi,"Potato, fenugreek leaves, chillies, salt, oil",vegetarian,bitter,Punjab,North
+Aloo shimla mirch,"Potato, shimla mirch, garam masala, amchur powder, salt",vegetarian,spicy,Punjab,North
+Bhatura,"Chole, rava, yogurt, plain flour, baking soda",vegetarian,spicy,Punjab,North
+Bhindi masala,"Ladies finger, garam masala, kasuri methi, tomatoes, chili powder",vegetarian,spicy,Punjab,North
+Biryani,"Chicken thighs, basmati rice, star anise, sweet, green chillies",non vegetarian,spicy,Telangana,South
+Butter chicken,"Chicken, greek yogurt, cream, garam masala powder, cashew nuts, butter",non vegetarian,spicy,NCT of Delhi,North
+Chana masala,"Chickpeas, tomato paste, garam masala, ginger, red onion, avocado oil",vegetarian,spicy,Punjab,North
+Chapati,"Whole wheat flour, olive oil, hot water, all purpose flour",vegetarian,-1,Maharashtra,West
+Chicken razala,"Chicken, dahi, sesame seeds, garam masala powder, cashew nuts, saffron",non vegetarian,spicy,West Bengal,East
+Chicken Tikka masala,"Naan bread, tomato sauce, skinless chicken breasts, heavy cream, garam masala",non vegetarian,spicy,Punjab,North
+Chicken Tikka,"Chicken, whole wheat bread, rice flour, garam masala powder, whole egg",non vegetarian,spicy,Punjab,North
+Chole bhature,"Chole, bhatura, garam masala, bay leaf, cinnamon stick",vegetarian,spicy,Punjab,North
+Daal baati churma,"Moong dal, masoor dal, chana dal, wheat flour, almond",vegetarian,spicy,Rajasthan,West
+Daal puri,"Moong dal, garam masala powder, garlic, green chilli, all purpose flour",vegetarian,spicy,West Bengal,East
+Dal makhani ,"Red kidney beans, urad dal, cream, garam masala, chili powder",vegetarian,sweet,Punjab,North
+Dal tadka,"Pigeon peas, garam masala, ginger, red onion, kasuri methi",vegetarian,spicy,Punjab,North
+Dum aloo,"Baby potatoes, garam masala, cashew nuts, kasuri methi, tomatoes",vegetarian,spicy,Jammu & Kashmir,North
+Poha,"Beaten rice flakes, potato, curry leaves, green chilies, lemon juice",vegetarian,spicy,Maharashtra,West
+Fara,"Chana dal, whole wheat flour, arhar dal, white urad dal, garam masala powder",vegetarian,spicy,Chhattisgarh,Central
+Kachori,"Moong dal, rava, garam masala, dough, fennel seeds",vegetarian,spicy,Uttar Pradesh,North
+Kadai paneer,"Cottage cheese, bell peppers, gravy, garam masala, cashew nuts",vegetarian,spicy,Punjab,North
+Kadhi pakoda,"Besan, garam masala powder, gram flour, ginger, curry leaves",vegetarian,spicy,Haryana,North
+Karela bharta,"Bitter gourd, fennel, garam masala powder, chili powder, amchur powder",vegetarian,bitter,Punjab,North
+Khichdi,"Moong dal, green peas, ginger, tomato, green chili",vegetarian,spicy,-1,-1
+Kofta,"Paneer, potato, cream, corn flour, garam masala",vegetarian,spicy,Uttar Pradesh,North
+Kulfi falooda,"Rose syrup, falooda sev, mixed nuts, saffron, sugar",vegetarian,sweet,-1,-1
+Lauki ke kofte,"Bottle gourd, garam masala powder, gram flour, ginger, chillies",vegetarian,spicy,Uttar Pradesh,North
+Lauki ki subji,"Bottle gourd, coconut oil, garam masala, ginger, green chillies",vegetarian,spicy,-1,-1
+Litti chokha,"Wheat flour, roasted gram flour, tomato, nigella seeds, chilli",vegetarian,spicy,Bihar,North
+Makki di roti sarson da saag,"Palak, makki atta, mustard green, garam masala, ginger",vegetarian,spicy,Punjab,North
+Misi roti,"Whole wheat flour, chickpea flour, green chilies",vegetarian,spicy,Punjab,North
+Mushroom do pyaza,"Mushroom, malai, garam masala, ginger, capsicum",vegetarian,spicy,Punjab,North
+Mushroom matar,"Canned coconut milk, frozen green peas, wild mushrooms, garam masala, tomatoes",vegetarian,spicy,Punjab,North
+Naan,"Whole wheat flour, honey, butter, garlic",vegetarian,-1,Punjab,North
+Navrattan korma,"Green beans, potatoes, khus khus, low fat, garam masala powder",vegetarian,spicy,Uttar Pradesh,North
+Palak paneer,"Cottage cheese, palak, cream, garam masala, butter",vegetarian,spicy,Punjab,North
+Paneer butter masala,"Paneer, whipping cream, garam masala, cashew nuts, butter",vegetarian,spicy,Punjab,North
+Paneer tikka masala,"Paneer, greek yogurt, tandoori masala, cream, bell pepper",vegetarian,spicy,Punjab,North
+Pani puri,"Kala chana, mashed potato, boondi, sev, lemon",vegetarian,spicy,-1,-1
+Panjeeri,"Whole wheat flour, musk melon seeds, poppy seeds, edible gum, semolina",vegetarian,sweet,Uttar Pradesh,
+Papad,"Urad dal, sev, lemon juice, chopped tomatoes",vegetarian,spicy,-1,-1
+Paratha,"Wheat flour, butter, potato, coriander",vegetarian,spicy,Punjab,North
+Pattor,"Arbi ke patte, sesame seeds, gur, bengal gram flour, imli",vegetarian,spicy,Rajasthan,West
+Pindi chana,"Fennel, tea bags, tomato, kasuri methi, cinnamon",vegetarian,spicy,Punjab,North
+Rajma chaval,"Red kidney beans, garam masala powder, ginger, tomato, mustard oil",vegetarian,spicy,-1,North
+Rongi,"Garam masala powder, tomato, kasuri methi, cinnamon, mustard oil",vegetarian,-1,Punjab,North
+Samosa,"Potatoes, green peas, garam masala, ginger, dough",vegetarian,spicy,-1,-1
+Sattu ki roti,"Sattu, atta, dough, filling, mustard oil",vegetarian,spicy,Bihar,North
+Shahi paneer,"Cottage cheese, malai, garam masala, ginger, tomato",vegetarian,spicy,Punjab,North
+Shahi tukra,"Rose water, milk, white bread slices, saffron, almonds",vegetarian,sweet,Telangana,South
+Vegetable jalfrezi,"Baby corn, french beans, garam masala, ginger, carrot",vegetarian,spicy,Punjab,North
+Tandoori Chicken,"Greek yogurt, garam masala, kasuri methi, marinade, mustard oil",non vegetarian,spicy,Punjab,North
+Tandoori Fish Tikka,"Chickpea flour, biryani masala powder, yogurt, fish fillets, green bell pepper",non vegetarian,spicy,Punjab,North
+Attu,"Whole wheat flour, arhar dal, ginger, kala jeera, green chilli",vegetarian,spicy,Andhra Pradesh,South
+Avial,"Raw banana, elephant foot yam, long beans, tindora, urad dal",vegetarian,spicy,Kerala,South
+Bisi bele bath,"Split pigeon peas, chana dal, urad dal, green peas, french beans",vegetarian,spicy,Karnataka,South
+Currivepillai sadam ,"Chana dal, urad dal, fresh coconut, sesame seeds, curry leaves",vegetarian,spicy,Tamil Nadu,South
+Dosa,"Chana dal, urad dal, whole urad dal, blend rice, rock salt",vegetarian,spicy,-1,South
+Idiappam,"Rice flour, hot water, grated coconut",vegetarian,spicy,Tamil Nadu,South
+Idli,"Split urad dal, urad dal, idli rice, thick poha, rock salt",vegetarian,spicy,-1,South
+Kanji,"Carrot, yellow mustard, red chilli, black salt",vegetarian,-1,Kerala,South
+Kaara kozhambu,"Sesame oil, drumstick, tamarind paste, sambar powder, tomato",vegetarian,spicy,Tamil Nadu,South
+Keerai kootu,"Moong dal, chana dal, spinach, urad dal, coconut oil",vegetarian,spicy,Tamil Nadu,South
+Keerai masiyal,"Urad dal, curry leaves, sugar, mustard seeds, spinach",vegetarian,spicy,Tamil Nadu,South
+Keerai sadam,"Greens, tomato, mustard seeds, fenugreek seeds",vegetarian,spicy,Tamil Nadu,South
+Keerai poriyal,"Amaranth leaves, split urad dal, mustard seeds, grated coconut, red chili",vegetarian,spicy,Tamil Nadu,South
+Beef Fry,"Beef, coconut, garam masala, curry leaves, green chilies, chili powder",non vegetarian,spicy,Kerala,South
+Kootu,"Chana dal, urad dal, potato, beans, peas",vegetarian,spicy,Tamil Nadu,South
+Kos kootu,"Moong dal, chana dal, cabbage, tamarind, curry leaves",vegetarian,spicy,Tamil Nadu,South
+Koshambri,"Moong dal, cucumber, curry leaves, green chili, lemon juice",vegetarian,spicy,Karnataka,South
+Kothamali sadam,"Chana dal, urad dal, gooseberry, raw rice, curry leaves",vegetarian,spicy,Tamil Nadu,South
+Kuzhakkattai,"Sesame oil, raw rice, jaggery, grated coconut",vegetarian,spicy,Tamil Nadu,South
+Kuzhambu,"Pearl onions, urad dal, drumsticks, tomato, curry leaves",vegetarian,spicy,Tamil Nadu,South
+Masala Dosa,"Chana dal, urad dal, potatoes, idli rice, thick poha",vegetarian,spicy,-1,South
+Pachadi,"Coconut oil, cucumber, curd, curry leaves, mustard seeds",vegetarian,-1,-1,South
+Paniyaram,"Yogurt, ginger, curry leaves, baking soda, green chilli",vegetarian,-1,Tamil Nadu,South
+Papadum,"Lentils, black pepper, vegetable oil",vegetarian,spicy,Kerala,South
+Paravannam,"Raw rice,  jaggery, milk",vegetarian,spicy,Kerala,South
+Payasam,"Rice, cashew nuts, milk, raisins, sugar",vegetarian,sweet,-1,South
+Paruppu sadam,"Arhar dal, sambar powder, tomato, curry leaves, fennel seeds",vegetarian,-1,Tamil Nadu,South
+Pesarattu,"Green moong beans, rice flour",vegetarian,spicy,Andhra Pradesh,South
+Poriyal,"Chana dal, urad dal, beans, coconut, mustard",vegetarian,spicy,Tamil Nadu,South
+Puli sadam,"Urad dal, lemon, tamarind, cooked rice, curry leaves",vegetarian,-1,Tamil Nadu,South
+Rasam,"Tomato, curry leaves, garlic, mustard seeds, hot water",vegetarian,spicy,-1,South
+Puttu,"Brown rice flour, sugar, grated coconut",vegetarian,-1,Kerala,South
+Sambar,"Pigeon peas, eggplant, drumsticks, sambar powder, tamarind",vegetarian,spicy,-1,South
+Sandige,"Thin rice flakes, black sesame seeds, curry leaves",vegetarian,-1,Karnataka,South
+Sevai,"Sevai, parboiled rice, steamer",vegetarian,-1,-1,South
+Thayir sadam,"Urad dal, curd, sesame oil, ginger, curry leaves, mustard seeds",vegetarian,-1,Tamil Nadu,South
+Theeyal,"Coconut, whole red beans, masala, sesame oil, tamarind",vegetarian,-1,Kerala,South
+Uttapam,"Chana dal, urad dal, thick poha, tomato, butter",vegetarian,spicy,-1,South
+Vada,"Urad dal, ginger, curry leaves, green chilies, black pepper",vegetarian,spicy,-1,South
+Chicken Varuval,"Meat curry powder, chicken chunks, ginger, tomato, cinnamon",non vegetarian,spicy,Tamil Nadu,South
+Upma,"Chana dal, urad dal, ginger, curry leaves, sugar",vegetarian,spicy,-1,-1
+Amti,"Kala masala, arhar dal, curry leaves, mustard seeds, hot water",vegetarian,spicy,Maharashtra,West
+Zunka,"Gram flour, mustard, garlic, turmeric, red chilli",vegetarian,spicy,Maharashtra,West
+Kolim Jawla,"Baingan, fish, coconut oil, fresh coconut, ginger",non vegetarian,spicy,Maharashtra,West
+Saath,"Urad dal, potatoes, wheat flour, sooji",vegetarian,spicy,Gujarat,West
+Bajri no rotlo,"Wheat flour, pearl millet flour, hot water",vegetarian,spicy,Gujarat,West
+Coconut vadi,"Condensed milk, mawa, desiccated coconut, almonds, cashews",vegetarian,sweet,Maharashtra,West
+Bhakri,"Jowar flour, sesame seeds",vegetarian,-1,Maharashtra,West
+Bombil fry,"Bombay duck, malvani masala, rice flour, bombay rava, green chilies",non vegetarian,spicy,Maharashtra,West
+Chakali,"Rice flour, sesame, plain flour, turmeric, red chilli",vegetarian,spicy,Maharashtra,West
+Chevdo,"Citric acid, fry, raisins, sugar, chana daal",vegetarian,spicy,Gujarat,West
+Chorafali,"Urad dal, bengal gram flour, dried mango, baking soda, black salt",vegetarian,spicy,Gujarat,West
+Copra paak,"Condensed milk, nestle cream, coconut ice, red food coloring, desiccated coconut",vegetarian,-1,Gujarat,West
+Daal Dhokli,"Whole wheat flour, dal, kokum, gur, bengal gram flour",vegetarian,spicy,Gujarat,West
+Kutchi dabeli,"Pav, aloo, peanut, pomegranate, star anise",vegetarian,spicy,Gujarat,West
+Dahi vada,"Urad dal, bhuna chana, garam masala, dates, tamarind",vegetarian,-1,Maharashtra,West
+Dalithoy,"Arhar dal, coconut oil, curry leaves, mustard seeds, red chilli",vegetarian,-1,Maharashtra,West
+Dhokla,"Rava, coconut, gram flour, mustard, sesame",vegetarian,spicy,Gujarat,West
+Dudhi halwa,"Bottle gourd, green, raisins, sugar, clarified butter",vegetarian,sweet,Gujarat,West
+Gatta curry,"Yogurt, besan, sauce, garam masala powder, gram flour",vegetarian,spicy,Rajasthan,West
+Gud papdi,"Wheat flour, jaggery, clarified butter, sliced almonds",vegetarian,sweet,Gujarat,West
+Ghooghra,"Dry fruits, semolina, all purpose flour",vegetarian,spicy,Gujarat,West
+Handwo,"Bottle gourd, chana dal, cabbage, urad dal, toor dal",vegetarian,spicy,Gujarat,West
+Halvasan,"Whole wheat rava, chia seed, lemon, edible gum, litre milk",vegetarian,sweet,Gujarat,West
+Jeera Aloo,"Green chilies, lemon juice, chili powder, boiled potatoes",vegetarian,spicy,Gujarat,West
+Kansar,"Wheat flour, cashews, rapeseed oil",vegetarian,-1,Gujarat,West
+Keri no ras,"Mango, sugar",vegetarian,sour,Gujarat,West
+Khakhra,"Whole wheat flour, low fat, bengal gram flour",vegetarian,spicy,Gujarat,West
+Khandvi,"Green chili paste, white sesame seeds, gram flour, curry leaves, green chili",vegetarian,spicy,Gujarat,West
+Kombdi vade,"Rice flour, urad dal, wheat flour, gram flour, turmeric",vegetarian,spicy,Maharashtra,West
+Laapsi,"Cinnamon, jaggery, clarified butter, dry roasted",vegetarian,spicy,Madhya Pradesh,Central
+Koshimbir,"Cucumber, carrot, tomatoes, cilantro",vegetarian,spicy,Maharashtra,West
+Methi na Gota,"Rava, gram flour, lemon juice, turmeric, fenugreek leaves",vegetarian,bitter,Gujarat,West
+Mohanthal,"Rose water, pistachio, badam, bengal gram flour, saffron",vegetarian,sweet,Gujarat,West
+Muthiya,"Bottle gourd, whole wheat flour, rava, sesame seeds, bengal gram flour",vegetarian,bitter,Gujarat,West
+Patra,"Arbi ke patte, sesame seeds, gur, bengal gram flour, imli",vegetarian,spicy,Gujarat,West
+Pav Bhaji,"Pav bhaji masala, gobi, potatoes, green peas, dinner rolls",vegetarian,spicy,Maharashtra,West
+Puri Bhaji,"Aloo, urad dal, mustard, ginger, curry leaves",vegetarian,spicy,Maharashtra,West
+Sabudana Khichadi,"Raw peanuts, sabudana, lemon, avocado oil, curry leaves, green chili",vegetarian,spicy,Maharashtra,West
+Sev khamani,"Khaman, pomegranate, sev, powdered sugar, garlic",vegetarian,spicy,Gujarat,West
+Sev tameta,"Sev, ginger, tomato, sugar",vegetarian,spicy,Gujarat,West
+Namakpara,"Wheat flour, baking soda, all purpose flour, black pepper, sunflower oil",vegetarian,spicy,Gujarat,West
+Sukhdi,"Whole wheat flour, gur, clarified butter",vegetarian,sweet,Maharashtra,West
+Surnoli,"Rice flakes, yogurt, raw rice, jaggery, grated coconut",vegetarian,spicy,Maharashtra,West
+Thalipeeth,"Whole wheat flour, rice flour, pearl millet flour, sorghum flour, sesame seeds",vegetarian,spicy,Maharashtra,West
+Undhiyu,"Sweet potato, surti papdi, baby potatoes, valor papdi, green peas",vegetarian,spicy,Gujarat,West
+Veg Kolhapuri,"Gobi, potato, beans, khus khus, coconut",vegetarian,spicy,Maharashtra,West
+Vindaloo,"Chicken, coconut oil, wine vinegar, ginger, green, cinnamon",non vegetarian,spicy,Goa,West
+Lilva Kachori,"Green garlic chutney, fresh green peas, ginger, lemon juice, plain flour",vegetarian,spicy,Gujarat,West
+Mag Dhokli,"Moong beans, jaggery, red chillies, oil, salt",vegetarian,spicy,Gujarat,West
+Khichu,"Rice flour, sesame seeds, baking soda, peanut oil",vegetarian,spicy,Gujarat,West
+Thepla,"Chickpea flour, methi leaves, jowar flour, wheat flour",vegetarian,spicy,Gujarat,West
+Farsi Puri,"Semolina, clarified butter, oil, white flour, black pepper",vegetarian,-1,Gujarat,West
+Khaman,"Yogurt, fresh coconut, sesame seeds, semolina, gram flour",vegetarian,spicy,Gujarat,West
+Turiya Patra Vatana sabji,"Ridge gourd, baking soda, sugar, grated coconut, peas",vegetarian,spicy,Gujarat,West
+Churma Ladoo,"Whole wheat flour, khus khus, sesame seeds, dry coconut, gur",vegetarian,sweet,Rajasthan,West
+Cheera Doi,"Rice, mango, curd",vegetarian,sweet,West Bengal,East
+Gheela Pitha,"Sticky rice, rice flour, jaggery, orange rind",vegetarian,sweet,Assam,North East
+Khar,"Raw papaya, panch phoran masala, nigella seeds, mustard oil, fennel seeds",vegetarian,-1,Assam,North East
+Kumol Sawul,"Rice, eggs, carrot, beetroot",non vegetarian,spicy,Assam,North East
+Luchi,"Maida, vegetable oil",vegetarian,-1,West Bengal,East
+Alu Pitika,"Potatoes, mustard oil, fish, green chillies",non vegetarian,spicy,Assam,North East
+Masor tenga,"Ridge gourd, fish, lemon, tomatoes, mustard oil",non vegetarian,spicy,Assam,North East
+Bengena Pitika,"Brinjal, onions, salt, sesame seeds, coriander",vegetarian,-1,Assam,North East
+Bilahi Maas,"Potatoes, garam masala, tomatoes, mustard oil, bay leaf",non vegetarian,-1,Assam,North East
+Black rice,"Forbidden black rice, chicken, olive oil, slivered almonds, garlic powder",non vegetarian,-1,Manipur,North East
+Bora Sawul,"Biryani masala, mixed vegetables, yellow moong daal, whole red, mustard seeds",vegetarian,spicy,Assam,North East
+Brown Rice,"Brown rice, soy sauce, olive oil",vegetarian,-1,-1,-1
+Chingri malai curry,"Coconut milk, lobster, fresh green chilli, ginger, red onion",non vegetarian,spicy,West Bengal,East
+Goja,"Baking soda, clarified butter, oil, all purpose flour",vegetarian,sweet,West Bengal,East
+Hando Guri,"Jaggery, raisins",vegetarian,sweet,Assam,North East
+Haq Maas,"Lamb, garam masala powder, curd, turmeric, bay leaf",non vegetarian,spicy,Assam,North East
+Chingri Bhape,"Coconut, prawns, curd, mustard seed, green chili",non vegetarian,-1,West Bengal,East
+Kabiraji,"Fish fillet, besan, lemon, mint, ginger",non vegetarian,spicy,West Bengal,East
+Khorisa,"Fermented bamboo shoot, potato, ginger, green, mustard oil",vegetarian,spicy,Assam,North East
+Koldil Chicken,"Banana flower, chicken, green chili, mustard oil, lemon juice",non vegetarian,spicy,Assam,North East
+Konir Dom,"Aloo, tomatoes, mustard oil, bay leaf, cinnamon stick",non vegetarian,spicy,Assam,North East
+Koldil Duck,"Rice flour, mutton, banana, gram flour, olive oil, baking powder",non vegetarian,spicy,Assam,North East
+Masor Koni,"Fish roe, pumpkin flowers, mustard oil, turmeric, tomato",non vegetarian,spicy,Assam,North East
+Mishti Chholar Dal,"Chana dal, fresh coconut, ginger, cinnamon, raisins",vegetarian,sweet,West Bengal,East
+Pakhala,"Curd, cooked rice, curry leaves, dry chilli",vegetarian,-1,Odisha,East
+Pani Pitha,"Tea leaves, white sesame seeds, dry coconut, soaked rice",vegetarian,-1,Assam,North East
+Payokh,"Basmati rice, rose water, sugar, clarified butter, cardamom pods",vegetarian,sweet,Assam,North East
+Prawn malai curry,"Coconut milk, prawns, garlic, turmeric, sugar",non vegetarian,spicy,West Bengal,East
+Red Rice,"Red pepper, red onion, butter, watercress, olive oil",vegetarian,-1,-1,-1
+Shukto,"Green beans, bitter gourd, ridge gourd, banana, brinjal",vegetarian,spicy,West Bengal,East
+Til Pitha,"Glutinous rice, black sesame seeds, gur",vegetarian,sweet,Assam,North East
+Bebinca,"Coconut milk, egg yolks, clarified butter, all purpose flour",vegetarian,sweet,Goa,West
+Shufta,"Cottage cheese, dry dates, dried rose petals, pistachio, badam",vegetarian,sweet,Jammu & Kashmir,North
+Mawa Bati,"Milk powder, dry fruits, arrowroot powder, all purpose flour",vegetarian,sweet,Madhya Pradesh,Central
+Pinaca,"Brown rice, fennel seeds, grated coconut, black pepper, ginger powder",vegetarian,sweet,Goa,West
+Chicken spring rolls,"chicken, oil, bell, cabbage, garlic, sauce, salt, flour, carrot, soya, water, spring, corn, ",non vegetarian,spicy,-1,Indo-chinese
+Chicken noodles,"chicken, oil, bell, cabbage, chilli, garlic, sauce, salt, capsicum, soya, water, spring, masala, ",non vegetarian,spicy,-1,Indo-chinese
+Egg noodles recipe | How to make easy egg noodles in Chinese style,"noodles, oil, green, bell, eggs, sesame, garlic, onions, sauce, carrot, vinegar, soya, spring, ",non vegetarian,spicy,-1,Indo-chinese
+Pineapple rice recipe,"cilantro, green, spring, coriander, oil, bell, cashews, butter, garlic, onions, vinegar, sauce, salt, capsicum, soya, raisins, rice, ",vegetarian,spicy,-1,Indo-chinese
+Garlic paneer recipe,"oil, coriander, celery, garlic, onions, sauce, salt, sugar, vinegar, soya, ",vegetarian,spicy,-1,Indo-chinese
+Sweet corn soup recipe | How to make sweet corn soup,"beans, oil, green, sweet, onions, garlic, ginger, salt, sugar, vinegar, water, spring, corn, ",vegetarian,spicy,-1,Indo-chinese
+Chicken lollipop recipe | How to make chicken lollipop,"chicken, oil, spring, celery, chilli, garlic, vinegar, onions, sauce, ginger, salt, sugar, soya, water, rice, corn, masala, ",non vegetarian,spicy,-1,Indo-chinese
+Veg roll recipe (chapati roll),"oil, bell, cabbage, garlic, tomato, sauce, salt, atta, vinegar, water, soya, ",vegetarian,spicy,-1,Indo-chinese
+Paneer manchurian recipe,"oil, spring, bell, chilli, sesame, garlic, tomato, sauce, ginger, vinegar, flour, sugar, capsicum, soya, water, rice, corn, ",vegetarian,spicy,-1,Indo-chinese
+Soya chunks manchurian,"oil, bell, garlic, onions, tomato, sauce, ginger, vinegar, flour, sugar, capsicum, soya, water, spring, corn, ",vegetarian,spicy,-1,Indo-chinese
+Chilli potato recipe | How to make chilli potato | Chilli aloo,"capsicum, oil, green, spring, bell, aloo, chilli, garlic, onions, vinegar, sauce, flour, potatoes, salt, soya, rice, corn, ",vegetarian,spicy,-1,Indo-chinese
+Singapore fried rice,"rice, green, bell, sesame, onions, garlic, chilli, sauce, salt, vinegar, spring, ",vegetarian,spicy,-1,Indo-chinese
+Egg fried rice,"peas, oil, spring, schezwan, eggs, bell, cabbage, sweet, garlic, vinegar, onions, sauce, salt, carrot, soya, rice, ",non vegetarian,spicy,-1,Indo-chinese
+Chicken manchurian,"chicken, capsicum, oil, spring, bell, garlic, tomato, vinegar, sauce, ginger, onions, flour, salt, sugar, soya, water, rice, corn, ",non vegetarian,spicy,-1,Indo-chinese
+Chicken fried rice,"chicken, oil, green, spring, bell, garlic, onions, sauce, salt, soya, rice, corn, ",non vegetarian,spicy,-1,Indo-chinese
+Sweet corn rice recipe | Sweet corn fried rice,"oil, green, spring, butter, sweet, garlic, onions, capsicum, water, rice, corn, ",vegetarian,spicy,-1,Indo-chinese
+Mushroom manchurian,"mushrooms, oil, bell, chilli, garlic, tomato, vinegar, sauce, ginger, flour, salt, capsicum, soya, water, sugar, spring, corn, ",vegetarian,spicy,-1,Indo-chinese
+soya chunks fried rice recipe,"peas, Carrots, oil, spring, bell, sesame, onions, vinegar, garlic, sauce, salt, capsicum, soya, rice, ",vegetarian,spicy,-1,Indo-chinese
+Schezwan chicken,"chicken, rice, oil, sesame, garlic, onions, vinegar, sauce, ginger, chilli, salt, sugar, soya, spring, corn, ",non vegetarian,spicy,-1,Indo-chinese
+Chilli garlic noodles,"noodles, oil, bell, sesame, garlic, chilli, vinegar, sauce, onions, salt, sugar, carrot, soya, spring, ",vegetarian,spicy,-1,Indo-chinese
+Gobi manchurian recipe,"rice, oil, green, bell, chilli, garlic, onions, tomato, sauce, ginger, vinegar, flour, salt, sugar, soya, water, spring, corn, ",vegetarian,spicy,-1,Indo-chinese
+Chilli mushroom recipe,"mushrooms, peanut, oil, green, bell, onions, garlic, tomato, sauce, sugar, capsicum, soya, water, spring, ",vegetarian,spicy,-1,Indo-chinese
+Chilli chicken,"chicken, oil, green, bell, chilli, tomato, vinegar, garlic, sauce, flour, sugar, soya, water, spring, corn, ",non vegetarian,spicy,-1,Indo-chinese
+Veg noodles recipe (Vegetable noodles),"noodles, oil, green, bell, sesame, garlic, onions, vinegar, sauce, lemon, chilli, salt, soya, spring, ",vegetarian,spicy,-1,Indo-chinese
+Mushroom fried rice recipe | Mushroom rice recipe,"rice, mushrooms, oil, green, bell, onions, garlic, vinegar, sauce, capsicum, soya, spring, ",vegetarian,spicy,-1,Indo-chinese
+Chilli fish,"green, bell, garlic, onions, vinegar, sauce, ginger, flour, salt, fish, soya, water, sugar, spring, corn, ",vegetarian,spicy,-1,Indo-chinese
+Chicken soup recipe | How to make Indian chicken soup,"chicken, potato, oil, garlic, ghee, ginger, carrot, cinnamon, corn, ",non vegetarian,spicy,-1,Indo-chinese
+Schezwan paneer recipe | Indo chinese spicy schezwan paneer recipe,"capsicum, oil, celery, schezwan, garlic, vinegar, tomato, sauce, ginger, salt, flour, sugar, soya, water, spring, corn, ",vegetarian,spicy,-1,Indo-chinese
+Veg fried rice recipe,"mushrooms, beans, Carrots, oil, green, onions, sauce, vinegar, Rice, ",vegetarian,spicy,-1,Indo-chinese
+Manchow Soup,"noodles, celery, bell, cabbage, onions, ginger, fry, spring, mushrooms, garlic, salt, beans, coriander, sauce, soya, corn, oil, green, chilli, carrot, vinegar, rice, ",vegetarian,spicy,-1,Indo-chinese
+Schezwan noodles,"noodles, oil, celery, chillies, sesame, onions, chilli, tomato, sauce, garlic, ginger, vinegar, salt, sugar, soya, spring, ",vegetarian,spicy,-1,Indo-chinese
+Garlic mushrooms,"mushrooms, oil, coriander, chilli, garlic, onions, salt, sugar, vinegar, water, lemon, ",vegetarian,spicy,-1,Indo-chinese
+Vegetable soup,"peas, oil, beans, cabbage, sweet, onions, garlic, lemon, chilli, ginger, salt, sugar, vinegar, water, spring, corn, ",vegetarian,spicy,-1,Indo-chinese
+Clear soup with vegetables,"mushrooms, beans, oil, coriander, celery, cabbage, garlic, ginger, spring, ",vegetarian,spicy,-1,Indo-chinese
+Garlic chicken,"chicken, Yogurt, chilli, onions, dahi, garlic, sugar, curd, ",non vegetarian,spicy,-1,Indo-chinese
+Cabbage rice (Cabbage fried rice),"peas, oil, green, cabbage, garlic, sauce, vinegar, soya, rice, ",vegetarian,spicy,-1,Indo-chinese
+Lemon chicken recipe | how to make lemon chicken recipe | chicken starter,"chicken, mint, oil, green, coriander, celery, garlic, sauce, ginger, turmeric, salt, sugar, soya, lemon, ",non vegetarian,spicy,-1,Indo-chinese
+Spring rolls recipe | How to make veg spring rolls,"noodles, oil, green, bell, cabbage, onions, vinegar, sauce, salt, capsicum, soya, carrot, spring, ",vegetarian,spicy,-1,Indo-chinese
+Veg manchurian recipe,"bell, cabbage, onions, ginger, spring, garlic, flour, salt, capsicum, beans, gravy, sauce, soya, water, corn, oil, sugar, carrot, vinegar, ",vegetarian,spicy,-1,Indo-chinese
+Schezwan sauce,"oil, celery, sesame, garlic, onions, vinegar, sauce, ginger, tomato, salt, sugar, soya, water, ",vegetarian,spicy,-1,Indo-chinese
+Chilli paneer (restaurant style dry & gravy),"capsicum, oil, green, chilli, tomato, vinegar, garlic, sauce, onions, salt, flour, sugar, soya, water, spring, corn, ",vegetarian,spicy,-1,Indo-chinese
+Schezwan fried rice,"celery, bell, onions, ginger, spring, garlic, tomato, salt, capsicum, beans, sauce, soya, water, corn, oil, chilli, sugar, vinegar, rice, ",vegetarian,spicy,-1,Indo-chinese
+Hakka noodles recipe,"noodles, capsicum, beans, oil, green, rice, cabbage, sesame, garlic, chilli, vinegar, sauce, carrot, soya, spring, ",vegetarian,spicy,-1,Indo-chinese
+Baby Corn Manchurian Recipe | How to make baby corn manchurian,"oil, green, bell, chilli, garlic, onions, vinegar, sauce, ginger, tomato, salt, flour, capsicum, soya, spring, corn, ",vegetarian,spicy,-1,Indo-chinese
+"chilli garlic fried rice, how to make chilli garlic veg fried rice","capsicum, beans, oil, spring, garlic, vinegar, onions, sauce, sugar, carrot, soya, rice, ",vegetarian,spicy,-1,Indo-chinese
+Chilli prawns,"capsicum, oil, green, bell, sesame, onions, garlic, sweet, sauce, chilli, vinegar, prawns, salt, sugar, flour, soya, water, corn, ",non vegetarian,spicy,-1,Indo-chinese
+Paneer fried rice,"oil, green, spring, bell, chilli, garlic, onions, sauce, ginger, turmeric, salt, carrot, curd, soya, rice, masala, ",vegetarian,spicy,-1,Indo-chinese
+Cabbage stir fry,"oil, green, bell, cabbage, sesame, garlic, vinegar, sauce, soya, ",vegetarian,spicy,-1,Indo-chinese
+schezwan chicken fried rice recipe | spicy chicken fried rice,"chicken, oil, spring, bell, schezwan, garlic, onions, vinegar, sauce, ginger, sugar, soya, water, rice, corn, ",non vegetarian,spicy,-1,Indo-chinese

@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+{% load static %}
+{% load crispy_forms_tags %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      {% block title %}
+
+      {% endblock %}
+
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.css">
+
+    <style>
+    @font-face{
+    font-family:MyFont; 
+    src: url(../../static/assets/fonts/Raleway-VariableFont_wght.ttf)
+    }
+    @font-face {
+      font-family: Poppins-Regular;
+      src: url("../../static/assets/fonts/poppins/Poppins-Regular.ttf");
+    }
+
+    @font-face {
+      font-family: Poppins-Bold;
+      src: url("../../static/assets/fonts/poppins/Poppins-Bold.ttf");
+    }
+
+    @font-face {
+      font-family: Poppins-Medium;
+      src: url("../../static/assets/fonts/poppins/Poppins-Medium.ttf");
+    }
+
+    @font-face {
+      font-family: Montserrat-Bold;
+      src: url("../../static/assets/fonts/montserrat/Montserrat-Bold.ttf");
+    }
+
+
+    .row{
+        padding: 5px;
+    }
+    .fa-tint{     
+        color: red;    
+    }
+    .blood{
+        float: right;
+    }
+    .fa-users{     
+        color: blue; 
+        font-size: 3ex;   
+    }
+    .fa-spinner{     
+        color: blue; 
+        font-size: 3ex;   
+    }
+    .fa-check-circle{     
+        color: blue; 
+        font-size: 3ex;   
+    }
+    .xyz{     
+        color: blue; 
+        font-size: 3ex;   
+    }
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+body{
+  font-family: Poppins-Regular, sans-serif;
+  background-image: url(../../static/images/img5.png);
+  background-color: #f3f5f9;
+  background-size:cover;
+  position: relative;
+}
+body .bgi{
+   /* background-color: #f3f5f9; */
+  background-size:cover;
+  position: relative;
+}
+
+.bg-danger {
+    background-color: #ff0018!important;
+}
+.whiteh3{
+  font-family: Poppins-Regular, sans-serif;
+  color: white;
+  padding-bottom: 1em;
+  font-weight: bolder;
+}
+.whiteh1{
+  font-family: MyFont, sans-serif;
+  color: white;
+  padding-bottom: 2em;
+  align-self: center;
+}
+select.mySelectArrow{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background: #2596be;
+    color: #fff;
+    width: 100%;
+    padding: 10px 20px;
+    font-size: 22px;
+}
+select.mySelectArrow option {
+    color: #000;
+    padding: 0 10px;
+}
+.select:after {
+    content: '\25BC';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    font-size: 25px;
+    border: 1px solid #565656;
+    background: #0e7b53;
+    color: #fff;
+    padding: 11px 15px;
+    pointer-events: none;
+}
+.select {
+    position: relative;
+    width: 800px;
+}
+
+.tablecontainer{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
+  background-color: #daeae6;
+}
+.rowcontainer{
+  font-family: 'Raleway',MyFont;
+  width: 100%;
+  height: 4em;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color:#dfdfdf ;
+  padding: 0.2em;
+  flex-basis:auto;
+  vertical-align: middle;
+  border-radius: 10px;
+}
+.rowhead{
+  font-family: 'Raleway',MyFont;
+  font-size: 1.1em;
+  font-weight: bold;
+  width: 100%;
+  height: 3.5em;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color:#2596be;
+  padding: 0.2em;
+  flex-basis:auto;;
+}
+.sitem{
+  font-family: 'Raleway',MyFont;
+  width: 7%;
+  height: 100%;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  flex-basis:auto;
+  flex-grow: 4;
+  margin: 0.50em;
+  vertical-align: middle;
+}
+.mitem{
+  font-family: 'Raleway',MyFont;
+  width: 18%;
+  height: 100%;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  flex-basis:auto;
+  flex-grow: 4;
+  margin: 0.50em;
+  vertical-align: middle;
+}
+.litem{
+  font-family: 'Raleway',MyFont;
+  width: 25%;
+  height: 100%;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  flex-basis:auto;
+  flex-grow: 4;
+  margin: 0.50em;
+  vertical-align: middle;
+}
+.checkbo{
+  width: 1.5em;
+  height: 1.5em;
+}
+.card{
+  border-radius: 10px;
+}
+.limiter {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.container-login100 {
+  width: 100%;
+  min-height: 100vh;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+}
+.wrap-login100 {
+  width: 1000px;
+  background: #343a40;
+  border-radius: 10px;
+  overflow: hidden;
+  color: white;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 100px 130px 33px 95px;
+}
+.wrapper{
+  display: flex;
+  position: relative;
+}
+
+.wrapper .sidebar{
+  width: 200px;
+  height: 100%;
+  background: 	#343a40;
+  padding: 30px 0px;
+  position: fixed;
+}
+
+.wrapper .sidebar h2{
+  color: #fff;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.wrapper .sidebar ul li{
+  padding: 15px;
+  border-bottom: 1px solid #bdb8d7;
+  border-bottom: 1px solid rgba(0,0,0,0.05);
+  border-top: 1px solid rgba(255,255,255,0.05);
+}    
+
+.wrapper .sidebar ul li a{
+  color: #bdb8d7;
+  display: block;
+}
+
+.wrapper .sidebar ul li a .fas{
+  width: 25px;
+}
+
+.wrapper .sidebar ul li:hover{
+  background-color: #594f8d;
+}
+    
+.wrapper .sidebar ul li:hover a{
+  color: #fff;
+}
+ 
+.wrapper .sidebar .social_media{
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+}
+
+.wrapper .sidebar .social_media a{
+  display: block;
+  width: 40px;
+  background: #594f8d;
+  height: 40px;
+  line-height: 45px;
+  text-align: center;
+  margin: 0 5px;
+  color: #bdb8d7;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.wrapper .main_content{
+  width: 100%;
+  margin-left: 200px;
+}
+
+.wrapper .main_content .header{
+  padding: 20px;
+  background: #fff;
+  color: #717171;
+  border-bottom: 1px solid #e0e4e8;
+}
+
+.wrapper .main_content .info{
+  margin: 20px;
+  color: #717171;
+  line-height: 25px;
+}
+
+.wrapper .main_content .info div{
+  margin-bottom: 20px;
+}
+
+@media (max-height: 500px){
+  .social_media{
+    display: none !important;
+  }
+}
+.fa-sign-out-alt{
+    color: white;
+    font-size: 2ex;
+}
+  .label {
+     color: white;
+     padding: 8px;
+   }
+   
+   .success {background-color: #4CAF50;} /* Green */
+   .info {background-color: #2196F3;} /* Blue */
+   .warning {background-color: #ff9800;} /* Orange */
+   .danger {background-color: #f44336;} /* Red */
+   .other {background-color: #e7e7e7; color: black;} /* Gray */
+
+</style>
+</head>
+<body>
+
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top bg-dark">
+        <a style="color:white;" class="navbar-brand" href="/"><i class="fab fa-cutlery"></i>&nbsp;<font face = "Comic sans MS" size ="4">RESTROREC</font></a>
+        
+      
+        <div class="navbar-collapse collapse w-100 order-3 dual-collapse2">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                  <a class="nav-link" style="color: white;" href="{%url 'Reco:profileView' %}">View Profile &nbsp; <i class="fas fa-user"></i></a>
+              </li>
+                <li class="nav-item">
+                    <a class="nav-link" style="color: white;" href="{%url 'logoutView' %}">Logout &nbsp; <i class="fas fa-sign-out-alt"></i></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" style="color: white;" href="{%url 'showModels' %}">Home <i class="fas fa-home"></i></a>
+              </li>
+                
+            </ul>
+        </div>
+      </nav>
+    <br><br>
+
+    <div class="main_content">
+      {% block content %}
+
+      {% endblock %}
+    </div>
+
+    </div>
+
+
+
+<!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+</body>
+</html>

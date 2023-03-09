@@ -1,0 +1,305 @@
+name,ingredients,diet,flavor_profile,state,region
+Balu shahi,"Maida flour, yogurt, oil, sugar",vegetarian,sweet,West Bengal,East
+Boondi,"Gram flour, ghee, sugar",vegetarian,sweet,Rajasthan,West
+Gajar ka halwa,"Carrots, milk, sugar, ghee, cashews, raisins",vegetarian,sweet,Punjab,North
+Ghevar,"Flour, ghee, kewra, milk, clarified butter, sugar, almonds, pistachio, saffron, green cardamom",vegetarian,sweet,Rajasthan,West
+Gulab jamun,"Milk powder, plain flour, baking powder, ghee, milk, sugar, water, rose water",vegetarian,sweet,West Bengal,East
+Imarti,"Sugar syrup, lentil flour",vegetarian,sweet,West Bengal,East
+Jalebi,"Maida, corn flour, baking soda, vinegar, curd, water, turmeric, saffron, cardamom",vegetarian,sweet,Uttar Pradesh,North
+Kaju katli,"Cashews, ghee, cardamom, sugar",vegetarian,sweet,-1,-1
+Kalakand,"Milk, cottage cheese, sugar",vegetarian,sweet,West Bengal,East
+Kheer,"Milk, rice, sugar, dried fruits",vegetarian,sweet,-1,-1
+Laddu,"Gram flour, ghee, sugar",vegetarian,sweet,-1,-1
+Lassi,"Yogurt, milk, nuts, sugar",vegetarian,sweet,Punjab,North
+Nankhatai,"Refined flour, besan, ghee, powdered sugar, yoghurt, green cardamom",vegetarian,sweet,-1,-1
+Petha,"Firm white pumpkin, sugar, kitchen lime, alum powder",vegetarian,sweet,Uttar Pradesh,North
+Phirni,"Rice, sugar, nuts",vegetarian,sweet,Odisha,East
+Rabri,"Condensed milk, sugar, spices, nuts",vegetarian,sweet,Uttar Pradesh,North
+Sheera,"Semolina, ghee, nuts, milk",vegetarian,sweet,Maharashtra,West
+Singori,"Khoa, coconut, molu leaf",vegetarian,sweet,Uttarakhand,North
+Sohan halwa,"Corn flour, ghee, dry fruits",vegetarian,sweet,Uttar Pradesh,North
+Sohan papdi,"Gram flour, ghee, sugar, milk, cardamom",vegetarian,sweet,Maharashtra,West
+Chhena jalebi,"Chhena, sugar, ghee",vegetarian,sweet,Odisha,East
+Chhena kheeri,"Chhena, sugar, milk",vegetarian,sweet,Odisha,East
+Chhena poda,"Sugar, chenna cheese",vegetarian,sweet,Odisha,East
+Cham cham,"Flour, cream, sugar, saffron, lemon juice, coconut flakes",vegetarian,sweet,West Bengal,East
+Kheer sagar,"Chenna, condensed milk, sugar, saffron, cardamom",vegetarian,sweet,Odisha,East
+Ledikeni,"Chhena, sugar, ghee",vegetarian,sweet,West Bengal,East
+Lyangcha,"Flour, fried milk power, sugar syrup",vegetarian,sweet,Assam,North East
+Malapua,"Yoghurt, refined flour, ghee, fennel seeds",vegetarian,sweet,Bihar,North
+Mihidana,"Besan flour, sugar, ghee",vegetarian,sweet,West Bengal,East
+Misti doi,"Milk, jaggery",vegetarian,sweet,West Bengal,East
+Pantua,"Chhena, sugar, ghee, flour",vegetarian,sweet,West Bengal,East
+Pithe,"Rice flour, wheat flour",vegetarian,sweet,Assam,North East
+Rasabali,"Chenna, sweetened milk",vegetarian,sweet,Odisha,East
+Ras malai,"Chhena, reduced milk, pistachio",vegetarian,sweet,West Bengal,East
+Rasgulla,"Chhena, sugar, cardamom",vegetarian,sweet,West Bengal,East
+Sandesh,"Milk, sugar, saffron, cardamom",vegetarian,sweet,West Bengal,East
+Adhirasam,"Rice flour, jaggery, ghee, vegetable oil, elachi",vegetarian,sweet,West Bengal,East
+Ariselu,"Rice flour, jaggery, ghee",vegetarian,sweet,Andhra Pradesh,South
+Bandar laddu,"Besan, jaggery, cardamom powder, ghee, cashews and raisins, jaggery syrup, sugar",vegetarian,sweet,Andhra Pradesh,South
+Chikki,"Peanuts, jaggery",vegetarian,sweet,Maharashtra,West
+Dharwad pedha,"Milk, Sugar, Dharwadi buffalo milk",vegetarian,sweet,Karnataka,South
+Double ka meetha,"Loaf bread, milk",vegetarian,sweet,Telangana,South
+Gavvalu,"Rice flour, sugar, salt, ghee, semolina",vegetarian,sweet,Andhra Pradesh,South
+Kakinada khaja,"Wheat flour, sugar",vegetarian,sweet,Andhra Pradesh,South
+Kuzhi paniyaram,"Black lentils, rice",vegetarian,sweet,Kerala,South
+Mysore pak,"Besan flour, semolina, mung bean, jaggery, coconut, skimmed milk powder, sugar, ghee",vegetarian,sweet,Karnataka,South
+Obbattu holige,"Maida flour, turmeric, coconut, chickpeas, jaggery, ghee, cardamom",vegetarian,sweet,Karnataka,South
+Palathalikalu,"Rice flour, milk",vegetarian,sweet,Andhra Pradesh,South
+Poornalu,"Chana dal, jaggery",vegetarian,sweet,Andhra Pradesh,South
+Pongal,"Rice, jaggery, cashews, ghee",vegetarian,sweet,Tamil Nadu,South
+Pootharekulu,"Rice flour, powdered sugar, ghee",vegetarian,sweet,Andhra Pradesh,South
+Qubani ka meetha,"Apricots, sugar syrup",vegetarian,sweet,Telangana,South
+Sheer korma,"Vermicelli pudding, milk",vegetarian,sweet,Telangana,South
+Unni Appam,"Rice flour, banana, jaggery, coconut",vegetarian,sweet,Tamil Nadu,South
+Kajjikaya,"Rice flour, jaggery, coconut",vegetarian,sweet,Andhra Pradesh,South
+Anarsa,"Rice flour, jaggery, khus-khus seeds",vegetarian,sweet,Maharashtra,West
+Basundi,"Sugar, milk, nuts",vegetarian,sweet,Gujarat,West
+Dhondas,"Cucumber, rava",vegetarian,sweet,Maharashtra,West
+Doodhpak,"Milk, rice, sugar, dry fruits",vegetarian,sweet,Gujarat,West
+Mahim halwa,"Semolina, sugar",vegetarian,sweet,Maharashtra,West
+Modak,"Rice flour, coconut, jaggery ",vegetarian,sweet,Maharashtra,West
+Shankarpali,"Sugar, ghee, maida flour, semolina",vegetarian,sweet,Maharashtra,West
+Shrikhand,"Curd, sugar, saffron, cardamom",vegetarian,sweet,Maharashtra,West
+Sutar feni,"Maida, sugar, ghee",vegetarian,sweet,Maharashtra,West
+Maach Jhol,"Fish, potol, tomato, chillies, ginger, garlic",non vegetarian,spicy,Assam,North East
+Pork Bharta,"Boiled pork, onions, chillies, ginger and garlic",non vegetarian,spicy,Tripura,North East
+Chak Hao Kheer,"Rice, milk, sugar, cardamom",vegetarian,sweet,Manipur,North East
+Galho,"Rice, axone, salt, water, chillies, pork",non vegetarian,spicy,Nagaland,North East
+Aloo gobi,"Cauliflower, potato, garam masala, turmeric, curry leaves",vegetarian,spicy,Punjab,North
+Aloo tikki,"Rice flour, potato, bread crumbs, garam masala, salt",vegetarian,spicy,Punjab,North
+Aloo matar,"Potato, peas, chillies, ginger, garam masala, garlic",vegetarian,spicy,Punjab,North
+Aloo methi,"Potato, fenugreek leaves, chillies, salt, oil",vegetarian,bitter,Punjab,North
+Aloo shimla mirch,"Potato, shimla mirch, garam masala, amchur powder, salt",vegetarian,spicy,Punjab,North
+Bhatura,"Chole, rava, yogurt, plain flour, baking soda",vegetarian,spicy,Punjab,North
+Bhindi masala,"Ladies finger, garam masala, kasuri methi, tomatoes, chili powder",vegetarian,spicy,Punjab,North
+Biryani,"Chicken thighs, basmati rice, star anise, sweet, green chillies",non vegetarian,spicy,Telangana,South
+Butter chicken,"Chicken, greek yogurt, cream, garam masala powder, cashew nuts, butter",non vegetarian,spicy,NCT of Delhi,North
+Chana masala,"Chickpeas, tomato paste, garam masala, ginger, red onion, avocado oil",vegetarian,spicy,Punjab,North
+Chapati,"Whole wheat flour, olive oil, hot water, all purpose flour",vegetarian,-1,Maharashtra,West
+Chicken razala,"Chicken, dahi, sesame seeds, garam masala powder, cashew nuts, saffron",non vegetarian,spicy,West Bengal,East
+Chicken Tikka masala,"Naan bread, tomato sauce, skinless chicken breasts, heavy cream, garam masala",non vegetarian,spicy,Punjab,North
+Chicken Tikka,"Chicken, whole wheat bread, rice flour, garam masala powder, whole egg",non vegetarian,spicy,Punjab,North
+Chole bhature,"Chole, bhatura, garam masala, bay leaf, cinnamon stick",vegetarian,spicy,Punjab,North
+Daal baati churma,"Moong dal, masoor dal, chana dal, wheat flour, almond",vegetarian,spicy,Rajasthan,West
+Daal puri,"Moong dal, garam masala powder, garlic, green chilli, all purpose flour",vegetarian,spicy,West Bengal,East
+Dal makhani ,"Red kidney beans, urad dal, cream, garam masala, chili powder",vegetarian,sweet,Punjab,North
+Dal tadka,"Pigeon peas, garam masala, ginger, red onion, kasuri methi",vegetarian,spicy,Punjab,North
+Dum aloo,"Baby potatoes, garam masala, cashew nuts, kasuri methi, tomatoes",vegetarian,spicy,Jammu & Kashmir,North
+Poha,"Beaten rice flakes, potato, curry leaves, green chilies, lemon juice",vegetarian,spicy,Maharashtra,West
+Fara,"Chana dal, whole wheat flour, arhar dal, white urad dal, garam masala powder",vegetarian,spicy,Chhattisgarh,Central
+Kachori,"Moong dal, rava, garam masala, dough, fennel seeds",vegetarian,spicy,Uttar Pradesh,North
+Kadai paneer,"Cottage cheese, bell peppers, gravy, garam masala, cashew nuts",vegetarian,spicy,Punjab,North
+Kadhi pakoda,"Besan, garam masala powder, gram flour, ginger, curry leaves",vegetarian,spicy,Haryana,North
+Karela bharta,"Bitter gourd, fennel, garam masala powder, chili powder, amchur powder",vegetarian,bitter,Punjab,North
+Khichdi,"Moong dal, green peas, ginger, tomato, green chili",vegetarian,spicy,-1,-1
+Kofta,"Paneer, potato, cream, corn flour, garam masala",vegetarian,spicy,Uttar Pradesh,North
+Kulfi falooda,"Rose syrup, falooda sev, mixed nuts, saffron, sugar",vegetarian,sweet,-1,-1
+Lauki ke kofte,"Bottle gourd, garam masala powder, gram flour, ginger, chillies",vegetarian,spicy,Uttar Pradesh,North
+Lauki ki subji,"Bottle gourd, coconut oil, garam masala, ginger, green chillies",vegetarian,spicy,-1,-1
+Litti chokha,"Wheat flour, roasted gram flour, tomato, nigella seeds, chilli",vegetarian,spicy,Bihar,North
+Makki di roti sarson da saag,"Palak, makki atta, mustard green, garam masala, ginger",vegetarian,spicy,Punjab,North
+Misi roti,"Whole wheat flour, chickpea flour, green chilies",vegetarian,spicy,Punjab,North
+Mushroom do pyaza,"Mushroom, malai, garam masala, ginger, capsicum",vegetarian,spicy,Punjab,North
+Mushroom matar,"Canned coconut milk, frozen green peas, wild mushrooms, garam masala, tomatoes",vegetarian,spicy,Punjab,North
+Naan,"Whole wheat flour, honey, butter, garlic",vegetarian,-1,Punjab,North
+Navrattan korma,"Green beans, potatoes, khus khus, low fat, garam masala powder",vegetarian,spicy,Uttar Pradesh,North
+Palak paneer,"Cottage cheese, palak, cream, garam masala, butter",vegetarian,spicy,Punjab,North
+Paneer butter masala,"Paneer, whipping cream, garam masala, cashew nuts, butter",vegetarian,spicy,Punjab,North
+Paneer tikka masala,"Paneer, greek yogurt, tandoori masala, cream, bell pepper",vegetarian,spicy,Punjab,North
+Pani puri,"Kala chana, mashed potato, boondi, sev, lemon",vegetarian,spicy,-1,-1
+Panjeeri,"Whole wheat flour, musk melon seeds, poppy seeds, edible gum, semolina",vegetarian,sweet,Uttar Pradesh,
+Papad,"Urad dal, sev, lemon juice, chopped tomatoes",vegetarian,spicy,-1,-1
+Paratha,"Wheat flour, butter, potato, coriander",vegetarian,spicy,Punjab,North
+Pattor,"Arbi ke patte, sesame seeds, gur, bengal gram flour, imli",vegetarian,spicy,Rajasthan,West
+Pindi chana,"Fennel, tea bags, tomato, kasuri methi, cinnamon",vegetarian,spicy,Punjab,North
+Rajma chaval,"Red kidney beans, garam masala powder, ginger, tomato, mustard oil",vegetarian,spicy,-1,North
+Rongi,"Garam masala powder, tomato, kasuri methi, cinnamon, mustard oil",vegetarian,-1,Punjab,North
+Samosa,"Potatoes, green peas, garam masala, ginger, dough",vegetarian,spicy,-1,-1
+Sattu ki roti,"Sattu, atta, dough, filling, mustard oil",vegetarian,spicy,Bihar,North
+Shahi paneer,"Cottage cheese, malai, garam masala, ginger, tomato",vegetarian,spicy,Punjab,North
+Shahi tukra,"Rose water, milk, white bread slices, saffron, almonds",vegetarian,sweet,Telangana,South
+Vegetable jalfrezi,"Baby corn, french beans, garam masala, ginger, carrot",vegetarian,spicy,Punjab,North
+Tandoori Chicken,"Greek yogurt, garam masala, kasuri methi, marinade, mustard oil",non vegetarian,spicy,Punjab,North
+Tandoori Fish Tikka,"Chickpea flour, biryani masala powder, yogurt, fish fillets, green bell pepper",non vegetarian,spicy,Punjab,North
+Attu,"Whole wheat flour, arhar dal, ginger, kala jeera, green chilli",vegetarian,spicy,Andhra Pradesh,South
+Avial,"Raw banana, elephant foot yam, long beans, tindora, urad dal",vegetarian,spicy,Kerala,South
+Bisi bele bath,"Split pigeon peas, chana dal, urad dal, green peas, french beans",vegetarian,spicy,Karnataka,South
+Currivepillai sadam ,"Chana dal, urad dal, fresh coconut, sesame seeds, curry leaves",vegetarian,spicy,Tamil Nadu,South
+Dosa,"Chana dal, urad dal, whole urad dal, blend rice, rock salt",vegetarian,spicy,-1,South
+Idiappam,"Rice flour, hot water, grated coconut",vegetarian,spicy,Tamil Nadu,South
+Idli,"Split urad dal, urad dal, idli rice, thick poha, rock salt",vegetarian,spicy,-1,South
+Kanji,"Carrot, yellow mustard, red chilli, black salt",vegetarian,-1,Kerala,South
+Kaara kozhambu,"Sesame oil, drumstick, tamarind paste, sambar powder, tomato",vegetarian,spicy,Tamil Nadu,South
+Keerai kootu,"Moong dal, chana dal, spinach, urad dal, coconut oil",vegetarian,spicy,Tamil Nadu,South
+Keerai masiyal,"Urad dal, curry leaves, sugar, mustard seeds, spinach",vegetarian,spicy,Tamil Nadu,South
+Keerai sadam,"Greens, tomato, mustard seeds, fenugreek seeds",vegetarian,spicy,Tamil Nadu,South
+Keerai poriyal,"Amaranth leaves, split urad dal, mustard seeds, grated coconut, red chili",vegetarian,spicy,Tamil Nadu,South
+Beef Fry,"Beef, coconut, garam masala, curry leaves, green chilies, chili powder",non vegetarian,spicy,Kerala,South
+Kootu,"Chana dal, urad dal, potato, beans, peas",vegetarian,spicy,Tamil Nadu,South
+Kos kootu,"Moong dal, chana dal, cabbage, tamarind, curry leaves",vegetarian,spicy,Tamil Nadu,South
+Koshambri,"Moong dal, cucumber, curry leaves, green chili, lemon juice",vegetarian,spicy,Karnataka,South
+Kothamali sadam,"Chana dal, urad dal, gooseberry, raw rice, curry leaves",vegetarian,spicy,Tamil Nadu,South
+Kuzhakkattai,"Sesame oil, raw rice, jaggery, grated coconut",vegetarian,spicy,Tamil Nadu,South
+Kuzhambu,"Pearl onions, urad dal, drumsticks, tomato, curry leaves",vegetarian,spicy,Tamil Nadu,South
+Masala Dosa,"Chana dal, urad dal, potatoes, idli rice, thick poha",vegetarian,spicy,-1,South
+Pachadi,"Coconut oil, cucumber, curd, curry leaves, mustard seeds",vegetarian,-1,-1,South
+Paniyaram,"Yogurt, ginger, curry leaves, baking soda, green chilli",vegetarian,-1,Tamil Nadu,South
+Papadum,"Lentils, black pepper, vegetable oil",vegetarian,spicy,Kerala,South
+Paravannam,"Raw rice,  jaggery, milk",vegetarian,spicy,Kerala,South
+Payasam,"Rice, cashew nuts, milk, raisins, sugar",vegetarian,sweet,-1,South
+Paruppu sadam,"Arhar dal, sambar powder, tomato, curry leaves, fennel seeds",vegetarian,-1,Tamil Nadu,South
+Pesarattu,"Green moong beans, rice flour",vegetarian,spicy,Andhra Pradesh,South
+Poriyal,"Chana dal, urad dal, beans, coconut, mustard",vegetarian,spicy,Tamil Nadu,South
+Puli sadam,"Urad dal, lemon, tamarind, cooked rice, curry leaves",vegetarian,-1,Tamil Nadu,South
+Rasam,"Tomato, curry leaves, garlic, mustard seeds, hot water",vegetarian,spicy,-1,South
+Puttu,"Brown rice flour, sugar, grated coconut",vegetarian,-1,Kerala,South
+Sambar,"Pigeon peas, eggplant, drumsticks, sambar powder, tamarind",vegetarian,spicy,-1,South
+Sandige,"Thin rice flakes, black sesame seeds, curry leaves",vegetarian,-1,Karnataka,South
+Sevai,"Sevai, parboiled rice, steamer",vegetarian,-1,-1,South
+Thayir sadam,"Urad dal, curd, sesame oil, ginger, curry leaves, mustard seeds",vegetarian,-1,Tamil Nadu,South
+Theeyal,"Coconut, whole red beans, masala, sesame oil, tamarind",vegetarian,-1,Kerala,South
+Uttapam,"Chana dal, urad dal, thick poha, tomato, butter",vegetarian,spicy,-1,South
+Vada,"Urad dal, ginger, curry leaves, green chilies, black pepper",vegetarian,spicy,-1,South
+Chicken Varuval,"Meat curry powder, chicken chunks, ginger, tomato, cinnamon",non vegetarian,spicy,Tamil Nadu,South
+Upma,"Chana dal, urad dal, ginger, curry leaves, sugar",vegetarian,spicy,-1,-1
+Amti,"Kala masala, arhar dal, curry leaves, mustard seeds, hot water",vegetarian,spicy,Maharashtra,West
+Zunka,"Gram flour, mustard, garlic, turmeric, red chilli",vegetarian,spicy,Maharashtra,West
+Kolim Jawla,"Baingan, fish, coconut oil, fresh coconut, ginger",non vegetarian,spicy,Maharashtra,West
+Saath,"Urad dal, potatoes, wheat flour, sooji",vegetarian,spicy,Gujarat,West
+Bajri no rotlo,"Wheat flour, pearl millet flour, hot water",vegetarian,spicy,Gujarat,West
+Coconut vadi,"Condensed milk, mawa, desiccated coconut, almonds, cashews",vegetarian,sweet,Maharashtra,West
+Bhakri,"Jowar flour, sesame seeds",vegetarian,-1,Maharashtra,West
+Bombil fry,"Bombay duck, malvani masala, rice flour, bombay rava, green chilies",non vegetarian,spicy,Maharashtra,West
+Chakali,"Rice flour, sesame, plain flour, turmeric, red chilli",vegetarian,spicy,Maharashtra,West
+Chevdo,"Citric acid, fry, raisins, sugar, chana daal",vegetarian,spicy,Gujarat,West
+Chorafali,"Urad dal, bengal gram flour, dried mango, baking soda, black salt",vegetarian,spicy,Gujarat,West
+Copra paak,"Condensed milk, nestle cream, coconut ice, red food coloring, desiccated coconut",vegetarian,-1,Gujarat,West
+Daal Dhokli,"Whole wheat flour, dal, kokum, gur, bengal gram flour",vegetarian,spicy,Gujarat,West
+Kutchi dabeli,"Pav, aloo, peanut, pomegranate, star anise",vegetarian,spicy,Gujarat,West
+Dahi vada,"Urad dal, bhuna chana, garam masala, dates, tamarind",vegetarian,-1,Maharashtra,West
+Dalithoy,"Arhar dal, coconut oil, curry leaves, mustard seeds, red chilli",vegetarian,-1,Maharashtra,West
+Dhokla,"Rava, coconut, gram flour, mustard, sesame",vegetarian,spicy,Gujarat,West
+Dudhi halwa,"Bottle gourd, green, raisins, sugar, clarified butter",vegetarian,sweet,Gujarat,West
+Gatta curry,"Yogurt, besan, sauce, garam masala powder, gram flour",vegetarian,spicy,Rajasthan,West
+Gud papdi,"Wheat flour, jaggery, clarified butter, sliced almonds",vegetarian,sweet,Gujarat,West
+Ghooghra,"Dry fruits, semolina, all purpose flour",vegetarian,spicy,Gujarat,West
+Handwo,"Bottle gourd, chana dal, cabbage, urad dal, toor dal",vegetarian,spicy,Gujarat,West
+Halvasan,"Whole wheat rava, chia seed, lemon, edible gum, litre milk",vegetarian,sweet,Gujarat,West
+Jeera Aloo,"Green chilies, lemon juice, chili powder, boiled potatoes",vegetarian,spicy,Gujarat,West
+Kansar,"Wheat flour, cashews, rapeseed oil",vegetarian,-1,Gujarat,West
+Keri no ras,"Mango, sugar",vegetarian,sour,Gujarat,West
+Khakhra,"Whole wheat flour, low fat, bengal gram flour",vegetarian,spicy,Gujarat,West
+Khandvi,"Green chili paste, white sesame seeds, gram flour, curry leaves, green chili",vegetarian,spicy,Gujarat,West
+Kombdi vade,"Rice flour, urad dal, wheat flour, gram flour, turmeric",vegetarian,spicy,Maharashtra,West
+Laapsi,"Cinnamon, jaggery, clarified butter, dry roasted",vegetarian,spicy,Madhya Pradesh,Central
+Koshimbir,"Cucumber, carrot, tomatoes, cilantro",vegetarian,spicy,Maharashtra,West
+Methi na Gota,"Rava, gram flour, lemon juice, turmeric, fenugreek leaves",vegetarian,bitter,Gujarat,West
+Mohanthal,"Rose water, pistachio, badam, bengal gram flour, saffron",vegetarian,sweet,Gujarat,West
+Muthiya,"Bottle gourd, whole wheat flour, rava, sesame seeds, bengal gram flour",vegetarian,bitter,Gujarat,West
+Patra,"Arbi ke patte, sesame seeds, gur, bengal gram flour, imli",vegetarian,spicy,Gujarat,West
+Pav Bhaji,"Pav bhaji masala, gobi, potatoes, green peas, dinner rolls",vegetarian,spicy,Maharashtra,West
+Puri Bhaji,"Aloo, urad dal, mustard, ginger, curry leaves",vegetarian,spicy,Maharashtra,West
+Sabudana Khichadi,"Raw peanuts, sabudana, lemon, avocado oil, curry leaves, green chili",vegetarian,spicy,Maharashtra,West
+Sev khamani,"Khaman, pomegranate, sev, powdered sugar, garlic",vegetarian,spicy,Gujarat,West
+Sev tameta,"Sev, ginger, tomato, sugar",vegetarian,spicy,Gujarat,West
+Namakpara,"Wheat flour, baking soda, all purpose flour, black pepper, sunflower oil",vegetarian,spicy,Gujarat,West
+Sukhdi,"Whole wheat flour, gur, clarified butter",vegetarian,sweet,Maharashtra,West
+Surnoli,"Rice flakes, yogurt, raw rice, jaggery, grated coconut",vegetarian,spicy,Maharashtra,West
+Thalipeeth,"Whole wheat flour, rice flour, pearl millet flour, sorghum flour, sesame seeds",vegetarian,spicy,Maharashtra,West
+Undhiyu,"Sweet potato, surti papdi, baby potatoes, valor papdi, green peas",vegetarian,spicy,Gujarat,West
+Veg Kolhapuri,"Gobi, potato, beans, khus khus, coconut",vegetarian,spicy,Maharashtra,West
+Vindaloo,"Chicken, coconut oil, wine vinegar, ginger, green, cinnamon",non vegetarian,spicy,Goa,West
+Lilva Kachori,"Green garlic chutney, fresh green peas, ginger, lemon juice, plain flour",vegetarian,spicy,Gujarat,West
+Mag Dhokli,"Moong beans, jaggery, red chillies, oil, salt",vegetarian,spicy,Gujarat,West
+Khichu,"Rice flour, sesame seeds, baking soda, peanut oil",vegetarian,spicy,Gujarat,West
+Thepla,"Chickpea flour, methi leaves, jowar flour, wheat flour",vegetarian,spicy,Gujarat,West
+Farsi Puri,"Semolina, clarified butter, oil, white flour, black pepper",vegetarian,-1,Gujarat,West
+Khaman,"Yogurt, fresh coconut, sesame seeds, semolina, gram flour",vegetarian,spicy,Gujarat,West
+Turiya Patra Vatana sabji,"Ridge gourd, baking soda, sugar, grated coconut, peas",vegetarian,spicy,Gujarat,West
+Churma Ladoo,"Whole wheat flour, khus khus, sesame seeds, dry coconut, gur",vegetarian,sweet,Rajasthan,West
+Cheera Doi,"Rice, mango, curd",vegetarian,sweet,West Bengal,East
+Gheela Pitha,"Sticky rice, rice flour, jaggery, orange rind",vegetarian,sweet,Assam,North East
+Khar,"Raw papaya, panch phoran masala, nigella seeds, mustard oil, fennel seeds",vegetarian,-1,Assam,North East
+Kumol Sawul,"Rice, eggs, carrot, beetroot",non vegetarian,spicy,Assam,North East
+Luchi,"Maida, vegetable oil",vegetarian,-1,West Bengal,East
+Alu Pitika,"Potatoes, mustard oil, fish, green chillies",non vegetarian,spicy,Assam,North East
+Masor tenga,"Ridge gourd, fish, lemon, tomatoes, mustard oil",non vegetarian,spicy,Assam,North East
+Bengena Pitika,"Brinjal, onions, salt, sesame seeds, coriander",vegetarian,-1,Assam,North East
+Bilahi Maas,"Potatoes, garam masala, tomatoes, mustard oil, bay leaf",non vegetarian,-1,Assam,North East
+Black rice,"Forbidden black rice, chicken, olive oil, slivered almonds, garlic powder",non vegetarian,-1,Manipur,North East
+Bora Sawul,"Biryani masala, mixed vegetables, yellow moong daal, whole red, mustard seeds",vegetarian,spicy,Assam,North East
+Brown Rice,"Brown rice, soy sauce, olive oil",vegetarian,-1,-1,-1
+Chingri malai curry,"Coconut milk, lobster, fresh green chilli, ginger, red onion",non vegetarian,spicy,West Bengal,East
+Goja,"Baking soda, clarified butter, oil, all purpose flour",vegetarian,sweet,West Bengal,East
+Hando Guri,"Jaggery, raisins",vegetarian,sweet,Assam,North East
+Haq Maas,"Lamb, garam masala powder, curd, turmeric, bay leaf",non vegetarian,spicy,Assam,North East
+Chingri Bhape,"Coconut, prawns, curd, mustard seed, green chili",non vegetarian,-1,West Bengal,East
+Kabiraji,"Fish fillet, besan, lemon, mint, ginger",non vegetarian,spicy,West Bengal,East
+Khorisa,"Fermented bamboo shoot, potato, ginger, green, mustard oil",vegetarian,spicy,Assam,North East
+Koldil Chicken,"Banana flower, chicken, green chili, mustard oil, lemon juice",non vegetarian,spicy,Assam,North East
+Konir Dom,"Aloo, tomatoes, mustard oil, bay leaf, cinnamon stick",non vegetarian,spicy,Assam,North East
+Koldil Duck,"Rice flour, mutton, banana, gram flour, olive oil, baking powder",non vegetarian,spicy,Assam,North East
+Masor Koni,"Fish roe, pumpkin flowers, mustard oil, turmeric, tomato",non vegetarian,spicy,Assam,North East
+Mishti Chholar Dal,"Chana dal, fresh coconut, ginger, cinnamon, raisins",vegetarian,sweet,West Bengal,East
+Pakhala,"Curd, cooked rice, curry leaves, dry chilli",vegetarian,-1,Odisha,East
+Pani Pitha,"Tea leaves, white sesame seeds, dry coconut, soaked rice",vegetarian,-1,Assam,North East
+Payokh,"Basmati rice, rose water, sugar, clarified butter, cardamom pods",vegetarian,sweet,Assam,North East
+Prawn malai curry,"Coconut milk, prawns, garlic, turmeric, sugar",non vegetarian,spicy,West Bengal,East
+Red Rice,"Red pepper, red onion, butter, watercress, olive oil",vegetarian,-1,-1,-1
+Shukto,"Green beans, bitter gourd, ridge gourd, banana, brinjal",vegetarian,spicy,West Bengal,East
+Til Pitha,"Glutinous rice, black sesame seeds, gur",vegetarian,sweet,Assam,North East
+Bebinca,"Coconut milk, egg yolks, clarified butter, all purpose flour",vegetarian,sweet,Goa,West
+Shufta,"Cottage cheese, dry dates, dried rose petals, pistachio, badam",vegetarian,sweet,Jammu & Kashmir,North
+Mawa Bati,"Milk powder, dry fruits, arrowroot powder, all purpose flour",vegetarian,sweet,Madhya Pradesh,Central
+Pinaca,"Brown rice, fennel seeds, grated coconut, black pepper, ginger powder",vegetarian,sweet,Goa,West
+Chicken spring rolls,1 tsp garlic (chopped) 3 cups cabbage (shredded) 1 medium carrot (julienned) ½ cup bell peppers (sliced) 2 tbsp oil 250 grams chicken (boneless thin strips) ½ tsp pepper (coarse crushed) ½ tsp Chinese five spice powder (or any masala) salt ( as needed) 1 tbsp soya sauce 8 spring roll sheets oil (as needed for frying) 1 tsp corn flour (or corn starch) 3 tbsp water ,non vegetarian,spicy,-1,Indo-chinese
+Chicken noodles,200 grams chicken ((boneless)) ¼ tsp pepper powder 1/8 tsp salt ((or as needed)) 1 tsp soya sauce ((naturally brewed or organic)) ½ to 1 tsp five spice (or garam masala powder) 150 grams Noodles ((or 2 packs)) 1 tsp oil ((optional)) salt ( if needed (optional)) 1 to 2 tsp oil ((to coat)) 2 tbsp oil ((sesame oil or use any)) 2 cloves garlic ((chopped finely)) 2 tbsps spring onion (( whites chopped)) ¼ cup bell pepper (( or capsicum julienned)) ¼ cup carrots ( julienne) ¼ cup cabbage ( (optional)) ¼ cup spring onion ((greens)) 1 ½ tbsp chilli sauce ((or use any)) 1 tbsp water ((to mix with sauce)) 1 tbsp soya sauce salt (if needed) ,non vegetarian,spicy,-1,Indo-chinese
+Egg noodles recipe | How to make easy egg noodles in Chinese style,"2 cakes noodles ( (serving 2)) 2 to 3 eggs 1 garlic cloves (large or 2 small , chopped finely) 2 to 3 green chilies ( slit) Pepper powder ( as needed) 1 tsp vinegar Olive oil ( or sesame oil as needed) ½ cup bell peppers ( chopped) 1 onion ( or 2 sprigs of spring onions chopped) 1 carrot julienne 1 tsp soya sauce 1 tsp sauce (any hot ) 1 star anise ((optional)) 1 strand mace ((optional)) ",non vegetarian,spicy,-1,Indo-chinese
+Pineapple rice recipe,"½ cup rice ( (any non sticky variety)) 1 to 2 tbsp butter ( or oil) ¾ tbsp garlic (chopped ) 8 to 10 cashews ( split) raisins ( as desired) ½ cup spring onions ( and capsicum / bell peppers) 1 green chili ( slit (less spicy variety, skip for kids)) ¼ to ½ tsp curry powder ( (optional) (for kids 1/4 tsp works good)) 2 tsp soya sauce 1 tsp vinegar salt ( as needed) 1 cup pineapple (chunks) 1 tbsp coriander leaves ( / cilantro (chopped), fresh ) oil (little more ) ",vegetarian,spicy,-1,Indo-chinese
+Garlic paneer recipe,1 ¼ cup paneer ( cubed) 6 large garlic (cloves) 1 tsp vinegar ((apple cider vinegar)) 5 to 6 red chilies ( kashmiri (seeds removed)) 1 tsp sugar salt ( as needed) 1 tbsp oil ½ tsp cumin (or 1 small strand of mace) ½ cup onions (chopped ) coriander leaves ( or celery as needed for garnish) 1 tsp soya sauce (naturally brewed - optional) ,vegetarian,spicy,-1,Indo-chinese
+Sweet corn soup recipe | How to make sweet corn soup,"1½ cups sweet corn (kernels (fresh, frozen, any)) ½ cup sweet corn ((optional, refer notes)) 3 sprigs spring onions ((fine chopped, separate greens & whites)) ¼ to ⅓ cup carrots ((finely chopped)) ¼ cup French beans ((4 to 6 finely chopped)) 3 to 3½ cups water (or stock) 1 tablespoon oil (or (butter)) ½ to ¾ tablespoon garlic (minced) ½ to ¾ tablespoon ginger (minced - optional) 1 small green chili ((deseeded & chopped, optional)) 1½ tablespoon corn starch ((corn flour, refer notes)) ½ teaspoon sugar ⅓ teaspoon salt ((adjust to taste)) ¼ teaspoon crushed pepper 1 teaspoon vinegar ((optional)) ",vegetarian,spicy,-1,Indo-chinese
+Chicken lollipop recipe | How to make chicken lollipop,½ kg chicken (drummettes (or 1 lb)) oil (as needed for frying) 1 ¼ tablespoon Ginger garlic paste or mince (or ½ tsp each of powder) ¼ to ½ red chili powder (or paprika (adjust) or red chili sauce) ½ teaspoon any spice powder (or garam masala ) 1/8 teaspoon salt 4 tablespoon cornstarch ((white corn flour) or (2 tbsp rice flour)) 1 small onion (finely chopped) ¾ tablespoon ginger (minced) ¾ tablespoon garlic (minced) 1 teaspoon soya sauce 1 teaspoon vinegar 1 tablespoon red chili sauce (or red chilli paste or any hot sauce) 1 teaspoon sugar ¼ teaspoon salt ½ cup water 2 tablespoon chopped celery or spring onions ,non vegetarian,spicy,-1,Indo-chinese
+Veg roll recipe (chapati roll),"1 cup atta (heaped, / whole wheat flour) salt ( as needed (optional)) 1 tsp oil 1/3 water (warm ) 1.5 tbsp olive oil 1 to 2 garlic cloves ( finely chopped) 2 to 3 cups cabbage (shredded (drained completely)) 1 cup carrots (shredded) 1 cup bell peppers 1 chili (slit ( skip if making for kids)) 1/4 tsp pepper ( coarsely crushed) salt ( as needed) 0.5 tsp vinegar 1 tsp soya sauce ( (organic or naturally brewed, skip for kids)) salt ( very little) Garlic sauce ( or tomato sauce as needed) ",vegetarian,spicy,-1,Indo-chinese
+Paneer manchurian recipe,"200 grams paneer ((Indian cottage cheese)) ¼ cup all-purpose flour ((maida) (prefer organic flour)) 3 tbsps corn flour ( (corn starch or rice flour)) ¼ tsp Salt ½ tsp red chilli powder ((optional) replace with pepper powder) Water (as needed to make batter) Oil ( for frying) 1 tbsp oil (olive or sesame oil) ½ to ¾ tbsp garlic (minced ) ½ to ¾ tbsp ginger (minced ) ¼ cup spring onion ( whites chopped) ¼ to ½ cup capsicum (chopped or bell pepper) 1 tsp corn flour ((corn starch or arrowroot powder)) ½ cup water ((you may need little more, use as needed)) 1 ½ tbsps soya sauce ((use naturally brewed or organic, I used kikkoman)) 2 tbsps tomato sauce ((I used homemade sauce)) ¾ to 1 tsp sugar ½ to ¾ tsp black pepper ½ to ¾ tsp vinegar ((use only if needed to give a mild tang)) Salt ( as needed (use only if needed, I used about ¼ tsp)) 2 tbsps Spring onion ( greens) ",vegetarian,spicy,-1,Indo-chinese
+Soya chunks manchurian,"¾ cup soya chunks 1 tbsp ginger garlic paste ½ to ¾ tsp red chili powder ( (less spicy variety)) ¼ tsp pepper powder ( (optional)) 2 tbsp corn flour ( or corn starch or just wheat flour) Salt ( to taste) Oil ( for frying) 1 tbsp oil 1 tbsp garlic ( chopped finely) ½ tbsp ginger ( chopped finely) ¼ cup spring onions ( or regular onion finely chopped) ¼ cup capsicum (/ bell pepper, fine chopped ) 1 tsp soya sauce ( (prefer organic or naturally brewed)) 1 tbsp chili sauce ( (prefer without MSG)) ½ to ¾ tbsp tomato sauce ( (prefer without MSG)) 1 tsp vinegar ( (prefer organic vinegar or apple cider vinegar)) ½ tsp sugar ( (optional, use if your sauce isn’t sweet)) ¼ to ½ tsp red chili powder ( (optional, for color)) ¾ tsp corn flour ( or corn starch) ½ cup water Salt ( if needed (may not need)) ¼ tsp pepper ( crushed coarsely) spring onion greens (Few , for garnish) ",vegetarian,spicy,-1,Indo-chinese
+Chilli potato recipe | How to make chilli potato | Chilli aloo,3 medium potatoes (or aloo (about 250 grams)) 2 tbsp corn flour ((or corn starch or rice flour or organic all-purpose flour)) ¼ tsp red chilli powder (or paprika powder) salt (as needed) 1/3 cup oil (or as needed) 1 tbsp oil 1½ tbsp garlic (chopped) 1 medium onion (chopped or sliced (or 2 sprigs spring onions chopped)) ¾ cup capsicum (or bell peppers diced) 1 green chili (deseeded) ½ tbsp soya sauce ((naturally brewed)) 1 tbsp red chilli sauce ½ to ¾ tsp red chili powder (or paprika or red chilli paste (optional)) ½ to ¾ tsp vinegar ((prefer apple cider vinegar)) Salt ( as needed) ,vegetarian,spicy,-1,Indo-chinese
+Singapore fried rice,"1 cup rice (, long grain, (cook to keep the rice grainy)) 1 tbsp garlic ( chopped finely) 2 tbsp olive ( or sesame oil) 1/8 tsp pepper ( crushed) ½ cup spring onions ( or leeks) ½ cup bell peppers ( (red, green and yellow)) ¼ cup carrots ( coarsely shredded) 1 green chilies ( slit or chopped) salt ( as needed) ½ tbsp vinegar 2 tbsp hot red chilli sauce ( or peri peri sauce) 1 tbsp Light Soya sauce 1 tbsp chili garlic sauce ",vegetarian,spicy,-1,Indo-chinese
+Egg fried rice,"3 cups cooked rice ((or 1 cup uncooked rice)) 1 to 1½ tablespoon organic soya sauce ((adjust to taste) (or tamari)) 1½ teaspoon rice vinegar ((optional, adjust to taste)) 1 tablespoon chopped garlic ((2 cloves)) ¼ teaspoon crushed black pepper ¼ teaspoon salt ((Or as required)) 2 tablespoons oil ((Peanut or any other)) 3 to 4 stalks spring onions (chopped, (green and whites separated)) 3 eggs (or 2 large ) 1 to 1½ tablespoons schezwan sauce (or 1 teaspoon any hot sauce (optional)) ½ cup carrot ((chopped, 1 small carrot)) ½ cup bell peppers ((julienned or diced)) ½ cup cabbage (shredded (or peas or sweet corn)) ",non vegetarian,spicy,-1,Indo-chinese
+Chicken manchurian,"250 grams chicken breast (boneless, (cubed or minced) ) ½ egg (white (1 egg white for ½ kg chicken)) 1/8 tsp pepper (coarsely crushed ) 1 tsp soya sauce ((Prefer naturally brewed)) 2 pinches chili powder ((optional, for color)) 2 tbsp corn starch ((white corn flour)) 1 ½ tbsp all-purpose flour (or maida (or rice flour)) 1 tsp ginger garlic paste (or minced) salt (little) oil (as needed for frying) 1 tbsp garlic (chopped finely) ½ tbsp ginger (chopped finely) 1 medium onion (chopped finely or 2 tbsps spring onion whites) 1 tbsp soya sauce ((use more for intense flavor)) 2 tbsp red chili sauce 2 tbsp tomato sauce (optional) 1 tsp vinegar ((add more if needed)) 1 cup water ( or chicken stock) 2 tsp corn starch ((white corn flour) (3 tsps for gravy)) 3 tbsp water (to mix with flour) salt (little ) ½ to 1 tsp sugar ¾ cup capsicum ( or bell peppers cubed) 2 tbsps scallions (or spring onions greens) ",non vegetarian,spicy,-1,Indo-chinese
+Chicken fried rice,3 cups cooked rice ((or ½ cup uncooked rice)) salt (as needed) 1 tablespoon garlic (chopped) 1 tablespoon soya sauce (organic (adjust to taste)) ¼ teaspoon crushed pepper ((or pepper)) 2 tablespoon oil 1 to 2 green chilies ((optional) or any hot sauce as desired) 2 sprigs scallions or spring onions (or 1 small onion (greens & whites separated)) ¼ to ½ cup bell peppers (chopped) 150 grams chicken (chopped to bite size) 1 egg (or ¾ tbsp corn starch or brine (refer notes)) ½ teaspoon soya sauce 1 large pinch salt 1 large pinch crushed pepper ((or powder)) ,non vegetarian,spicy,-1,Indo-chinese
+Sweet corn rice recipe | Sweet corn fried rice,"1 cup rice (uncooked or 3 cups cooked rice) 2 cups water ( or as needed to cook rice) 1½ tablespoon olive oil (or butter as needed) 2 garlic cloves ( minced) 1 medium onion (medium, or spring onions few sliced thinly) 1 to 2 green chili (slit (optional)) 1 cup sweet corn ((frozen or boiled)) ¾ cup capsicum (chopped ) 2 sprigs herbs ((mint/celery/coriander) chopped) ¼ teaspoon pepper powder ( as needed) ",vegetarian,spicy,-1,Indo-chinese
+Mushroom manchurian,"200 grams button mushrooms ((1 & ¼ cup sliced)) ¼ cup all-purpose flour ((or wheat flour )) 3 tablespoons white corn flour (( corn starch)) ½ teaspoon black pepper powder ½ teaspoon red chilli powder ((optional)) ¼ teaspoon salt ¼ cup water ( (more to adjust the consistency)) Oil ( for frying) 1 tablespoon oil ((any)) ½ to ¾ tablespoon garlic ( (minced)) ½ to ¾ tablespoon ginger ( (minced)) ¼ cup spring onion ( whites, chopped ) ¼ to ½ cup capsicum (chopped / bell pepper) 1 teaspoon corn flour ((corn starch or arrowroot powder)) ½ cup water ( (you may need little more, use as needed)) 1 ½ tablespoons soya sauce ((use naturally brewed or organic)) 2 tablespoons tomato sauce (or ketchup) ¾ to 1 teaspoon sugar ½ to ¾ teaspoon vinegar ( (optional, if needed)) salt ( as needed (use only if needed)) 2 tablespoons Spring onion greens ",vegetarian,spicy,-1,Indo-chinese
+soya chunks fried rice recipe,"1 cup rice (long grain ) ¼ to 1/3 cup soya ( chunks or granules) 1 tbsp soya sauce ( (can increase by ¼ tsp.)) capsicum ( / bell peppers (green, red any), Few juliennes) 1 to 2 stalks spring onions ( (green and white separated)) 1 handful Green peas ( (optional)) Carrots (few juliennes) 1 tsp vinegar 1 tsp garlic ( minced) 1/8 tsp pepper powder 2 tbsps Olive oil ( or sesame oil) 1 star anise ( / star flower / chakri phool, small ) 1 strand mace ( / javitri) salt ( as needed) ",vegetarian,spicy,-1,Indo-chinese
+Schezwan chicken,250 grams chicken (or ½ lb cubed boneless ) 1 egg white ((refer notes on brine)) ¼ teaspoon salt ¼ teaspoon crushed pepper 1 teaspoon soya sauce ((chose naturally brewed)) 3 tablespoon Corn starch (or (white corn flour)) ¼ cup oil (or as needed for frying or grilling) 1 tablespoon sesame oil (or any) 2 to 4 dried red chilies ((refer notes)) 1 teaspoon Sichuan peppercorn (ground (refer notes)) 1 teaspoon garlic (chopped) 1 teaspoon ginger (chopped) 2 to 3 sprigs spring onions or scallions ((greens & whites separated)) 1 tablespoon soya sauce ((naturally brewed)) 1 tablespoon rice vinegar 2 tablespoon red chilli paste or 1 tablespoon chilli powder (or 15 red chilies (notes)) 1 tablespoon sugar ½ teaspoon Salt ((adjust to taste)) ¼ to ½ teaspoon ground pepper (or pepper powder) ,non vegetarian,spicy,-1,Indo-chinese
+Chilli garlic noodles,"2 cakes noodles ( or 2 servings (150 grams)) 4 large garlic cloves ((1½ tbsp chopped finely)) ¾ to 1 tablespoon red chili flakes ((or 3 to 5 red chilies, less spicy kind)) 2 tablespoon oil ((divided, sesame or olive oil)) ½ teaspoon sugar 1 tablespoon soya sauce 1 tablespoon chilli sauce (or any hot sauce (optional)) 1 ½ teaspoon vinegar ((white or apple cider)) ¼ to ½ teaspoon salt ((adjust to taste)) 1 medium carrot (½ to ¾ cup chopped or sliced) ½ cup bell pepper ((capsicum) sliced or chopped) 2 sprigs spring onions ((greens & whites separated)) ",vegetarian,spicy,-1,Indo-chinese
+Gobi manchurian recipe,"250 grams cauliflower (florets (gobi cleaned)) ½ cup all-purpose flour ((maida, prefer organic or at least unbleached)) ¼ cup cornstarch ((white corn flour or yellow corn flour)) ½ to 1 teaspoon red chilli powder (or paste (less spicy variety) (optional)) ¼ teaspoon black pepper (crushed or ground) ¼ teaspoon salt ((adjust to taste)) ½ cup water ((more if needed)) Oil (for deep frying as needed) 1½ tablespoons oil ((for sauce)) 1 tablespoon garlic (finely chopped) ½ tablespoon ginger (finely chopped) 1 green chili (chopped (optional)) ⅓ cup onions (or spring onions finely chopped ) ¼ cup bell pepper ((capsicum chopped finely) (optional)) 1 tablespoon soya sauce ((organic or naturally brewed)(or tamari)) 2 to 3 tablespoon Red Chilli sauce ((or 2 tsps hot sauce, adjust to taste)) 1 to 2 tablespoon tomato ketchup ((optional, use if using hot sauce)) ½ teaspoon Red chili powder ((optional) (less spicy variety)) ½ tablespoon rice vinegar ((I used apple cider vinegar)) 1 teaspoon sugar ((adjust to taste)) salt (as needed) 3 to 4 tablespoons water ½ to ¾ teaspoon black pepper (crushed or ground) ⅛ teaspoon salt ((adjust to taste)) 2 tablespoons spring onion greens (chopped for garnish) ",vegetarian,spicy,-1,Indo-chinese
+Chilli mushroom recipe,"1 cup button mushrooms ((cleaned and quartered)) ½ cup bell pepper (/ capsicum cubed) ⅓ cup spring onions ((3 stalks)) 1 green chili ((slit and remove seeds)) 1 tablespoon garlic (, chopped, 2 to 3 cloves) 1 to 1½ tablespoon olive oil (or peanut oil or any) 1 tablespoon soya sauce (or tamari (adjust to taste)) 1½ to 2 tablespoons chili sauce ((adjust to taste)) ¾ to 1 tablespoon tomato ketchup (or tomato sauce (adjust to taste)) ¼ to ½ teaspoon sugar ((optional)) ¼ teaspoon black pepper ((crushed)) 2 to 3 tablespoons water ",vegetarian,spicy,-1,Indo-chinese
+Chilli chicken,"¼ cup Oil (or more for deep frying) 250 grams chicken (boneless cubes (½ lb)) 1 ½ teaspoon red chilli sauce ((sweet & spicy, less spicy kind)) 1 ½ teaspoon soya sauce ((naturally brewed)) ¼ teaspoon pepper powder ((crushed pepper)) 2 to 3 tablespoons cornstarch ((white corn flour)) 1½ to 2 tablespoons all-purpose flour ((maida) (optional)) ¼ teaspoon red chili powder ((optional) or paprika or red chilli paste) 1/8 teaspoon Salt (or as needed) 1 egg white (use only as needed) (or 2 tbsps water (refer notes)) 1 tablespoon soya sauce ((naturally brewed)) 2 tablespoons red chilli sauce ((adjust to taste) (sweet and spicy)) 2 tablespoons tomato ketchup ½ teaspoon red chilli powder ((optional) or paprika or red chili paste) ¼ teaspoon pepper powder ¾ to 1 teaspoon vinegar ((any or apple cider)) ½ to 1 teaspoon sugar 2 to 3 tablespoons water 1½ tbsp oil 1 medium onion (thinly sliced or cubed) 1 tablespoon garlic (fine chopped) ¼ to ½ cup bell pepper ((capsicum) - cubed ) 1 to 2 green chilies (slit and deseeded (optional)) 1 sprig spring onion (or scallions chopped (optional)) 1 to 3 tablespoon Spring onion (greens for garnish) ",non vegetarian,spicy,-1,Indo-chinese
+Veg noodles recipe (Vegetable noodles),"2 packs noodles ((2 servings (150 to 180 grams))) ¼ teaspoon salt ((adjust to taste)) 2 to 3 tablespoons olive oil ((or sesame oil)) 1 tablespoon garlic (chopped) 1 to 3 green chili peppers (slit (adjust to taste)) 1 small onion (sliced or 3 tbsp spring onions (optional)) 2 to 3 cups mixed veggies julienned ((cabbage, carrots, bell pepper, green beans)) ½ teaspoon black pepper (crushed (powder)) 1 tablespoon soya sauce ((or star anise & 1 strand mace)) 1 teaspoon vinegar ((or lemon juice)) 1 to 2 teaspoon hot sauce ((like chilli sauce or sriracha)) ",vegetarian,spicy,-1,Indo-chinese
+Mushroom fried rice recipe | Mushroom rice recipe,1 tbsp oil (sesame or olive) 2 cloves garlic ( chopped) 1 sprig spring onions (or half small onion sliced) ½ cup bell peppers (or capsicum sliced) ¾ to 1 cup mushrooms (sliced ) 1 green chili (slit (optional)) ¾ tsp soya sauce ((adjust to suit your taste) (or any other sauce)) ¾ tsp vinegar ((adjust to suit your taste)) Pepper powder (as needed) Salt (as needed) 1 cup rice (cooked (or half cup raw rice)) ,vegetarian,spicy,-1,Indo-chinese
+Chilli fish,"¼ cup Oil ( for shallow frying or more deep frying) 250 gms fish fillet 1 ½ tbsps corn starch ((corn flour)) 1 ½ tbsps all-purpose flour ⅛ tsp salt ((sauce already has salt, so add less)) ¾ tsp soya sauce ¼ tsp ground black pepper ((pepper powder)) 1 tsp ginger paste ((or crushed) (optional)) 1 tsp garlic paste ((or crushed) (optional)) 3 garlic cloves (chopped or minced) 2 stalks spring onions (or 1 medium onion sliced) ¼ cup green bell pepper ( cubed) ¼ cup red bell pepper ( cubed) 1 tbsp soya sauce 1 tsp vinegar 1 to 2 tbsp red chili sauce ((or any hot sauce)) 2 tbsp water 1 tsp sugar ¾ tsp corn starch ((corn flour) (optional)) ",vegetarian,spicy,-1,Indo-chinese
+Chicken soup recipe | How to make Indian chicken soup,"250 gms chicken ( (bone-in chicken)) 1 carrot ½ cup Sweet corn 1 potato (optional) 1 cup any vegetables of your choice ((optional) (cauliflower, celery,cabbage)) 2 tbsp Lemon juice ( (helps in fighting flu and cold)) 1 tbsp ginger (chopped finely (optional)) 1 tbsp garlic (chopped finely) 1 tsp ghee (or oil or butter) 1 small bay leaf 4 pepper corn 2 inch cinnamon piece ",non vegetarian,spicy,-1,Indo-chinese
+Schezwan paneer recipe | Indo chinese spicy schezwan paneer recipe,2 tbsp red chili paste ( (or 7 to 8 red chilies)) Hot water ( to soak chilies) 3 to 4 tbsps corn flour 3 to 4 tbsps all purpose flour ( or maida (organic)) salt ( as needed) ¼ tsp pepper water ( as needed to make the batter) 200 grams paneer oil ( for deep frying) 1 to 1½ tbsp oil ( for seasoning) ¾ tbsp. garlic ( chopped finely) ½ tbsp. ginger ( chopped finely) ½ tsp schezwan pepper (or 3 to 4 crushed (optional)) 2 tbsps spring onion whites (chopped ) 2 to 3 tbsps celery (chopped (optional)) salt ( as needed) ¾ to 1 tsp sugar ¾ tbsp soya sauce ½ to ¾ tbsp vinegar ( ( or tomato sauce)) 4 tbsps water ¼ cup capsicum ( (optional)) ½ to ¾ cup water 1 tsp corn flour ( or corn starch or arrow root powder) ,vegetarian,spicy,-1,Indo-chinese
+Veg fried rice recipe,"1 cup Rice ((uncooked or 3 cups cooked like basmati, jasmine)) 1 tablespoon Garlic (chopped) 2 tablespoons oil ((peanut, sunflower or avocado)) 1 tablespoon Soya sauce ((or tamari, adjust to taste)) 1 teaspoon Vinegar ((rice vinegar or apple cider)) Salt (as needed (I use ¼ teaspoon)) ½ teaspoon Black pepper (coarsely crushed) ¼ to ½ cup Carrots (chopped finely) ¼ cup Bell peppers ((capsicum) chopped finely) ¼ cup French beans ((4 to 5 green beans, chopped finely)) ¼ cup Green onions ((scallions/spring onions, 4 stalks, fine chopped)) ¼ cup Cabbage ((optional, or ¾ cup mushrooms sliced )) 1 green chili (slit (optional, for heat)) ",vegetarian,spicy,-1,Indo-chinese
+Manchow Soup,"½ to 2 tablespoons oil ¾ tablespoon ginger ((fine chopped)) ¾ tablespoon garlic ((fine chopped)) 1 green chilli ((fine chopped, deseeded for low heat)) ¼ cup onions 2 to 3 stalks spring onions ((fine chopped, greens & white separated)) ⅓ cup carrot ((1 small, fine chopped)) ¾ to 1 cup cabbage ((fine shredded)) 2 to 3 tablespoons French beans ((4 to 5 green beans, fine chopped)) 2 to 3 tablespoons bell peppers ((capsicum)) 3 to 4 mushrooms ((optional, fine chopped)) 1 to 2 tablespoons coriander stems ((or celery stalks, fine chopped)) 2 tablespoons coriander leaves ((fine chopped)) ½ to ¾ teaspoon salt ((adjust to taste)) 3 tablespoons organic soya sauce (or tamari) ½ teaspoon pepper ((crushed white or black pepper)) 1½ tablespoon cornstarch ((more for a thicker soup)) 1 to 3 teaspoons rice vinegar ((or apple vinegar)) 150 grams noodles ((preferably hakka noodles)) 1 cup oil ((to fry or 1 tbsp for air frying)) 2 to 2½ tablespoons corn starch ((white corn flour)) ",vegetarian,spicy,-1,Indo-chinese
+Schezwan noodles,"2 to 3 cakes noodles ((or 2 serving size, 160 to 180 grams)) 2 to 3 tablespoons olive oil (or sesame oil) 2 dried red chilies (broken) 1 ¼ cup mixed vegetables ( chopped ( carrots, capsicum,beans, mushrooms)) 2 sprigs spring onions ( ( separate greens and whites)) 1½ tablespoons red chili paste (or 15 to 20 red chillies or red chilli powder) 1 to 1½ tablespoon tomato sauce ((optional)) ¾ tablespoon garlic (chopped finely) ¾ tablespoon ginger ( chopped finely) 1 onion (medium sized , chopped finely) ½ teaspoon salt ((adjust as needed)) 1 teaspoon sugar 1 tablespoon soya sauce ( (naturally brewed)) 1 teaspoon vinegar ¼ to ½ teaspoon sichuan pepper (powder (or ground black pepper)) 2 tablespoon celery (chopped, optional) ",vegetarian,spicy,-1,Indo-chinese
+Garlic mushrooms,"1½ cup mushrooms (chopped or sliced) ½ cup onions (finely chopped ) ½ teaspoon cumin (or jeera or 1 strand of mace / javitri) 1 to 2 tablespoon oil ((prefer olive oil or butte)) 5 large garlic (cloves or minced(if using small, use more)) 5 dried red chilies (or chilli powder as needed (less spicy variety)) ¾ tablespoon Vinegar ((apple cider vinegar or lemon juice)) ½ to 1 teaspoon sugar ((prefer organic) or jaggery) salt ( to taste) 1 to 2 tablespoon water ¼ teaspoon red chili powder (optional (less spicy one for color)) 1 small Onion rings ( or slices) 2 tablespoon coriander leaves (chopped) ",vegetarian,spicy,-1,Indo-chinese
+Vegetable soup,½ tablespoon oil ((or butter)) ½ tablespoon garlic (fine chopped or minced) ¼ to ½ tablespoon ginger (fine chopped or minced) 2 sprigs spring onions (greens (or scallions)) 2 sprigs spring onion (whites (or scallions)) ¼ cup carrots (fine chopped) ¼ cup peas ¼ cup sweet corn ¼ cup french beans ½ cup cabbage (fine chopped) 2½ cups water (or vegetable stock) 1 tablespoon corn starch ((or 3 tbsp oats powder or 1 tbsp arrowroot powder) (optional) (refer notes)) ¼ cup water ((to mix with flour)) ¼ teaspoon salt ((adjust to taste)) ½ to 1 teaspoon sugar ((optional)) 1 teaspoon vinegar ((apple cider) or lemon juice) ¼ to ½ teaspoon red chilli flakes ¼ to ½ teaspoon pepper powder ((crushed pepper)) 1 small bay leaf (optional) ,vegetarian,spicy,-1,Indo-chinese
+Clear soup with vegetables,1 large yellow onion ((avoid red onion)) 1 cup celery stalks (( you can also add more) chopped) 2 carrots (diced or cubed (can add more)) 10 french beans ((lesser if also fine) ) ½ cabbage (diced ) 1 to 2 stalks celery leaves or coriander leaves 1½ cup mushrooms (sliced (or ½ cup mixed veggies or broccoli )) 8 florets cauliflower ((optional)) 1 tsp garlic (chopped) 1 tsp ginger (chopped) 1 tbsp oil 1 stalk spring onion (greens or scallions) ½ tsp crushed pepper (or ground pepper) ,vegetarian,spicy,-1,Indo-chinese
+Garlic chicken,"300 grams chicken (strips or boneless cubes) 4 tbsp Yogurt (/ dahi / curd (do not use sour yogurt)) Salt ( very little) 1 pinch pepper 2 tbsp Oil 1 sprig curry leaves ¼ tsp cumin 1 onions ( chopped finely) 5 red chilies (or 3/4 tsp red chilli powder) 5 garlic (cloves crushed) ¾ tbsp Vinegar ¼ tsp sugar ( (optional)) Salt to taste 15 to 30 ml Water ( (lesser, better) to make a paste) Coriander leaves ( few) Onion wedges ( or rings) Lemon ",non vegetarian,spicy,-1,Indo-chinese
+Cabbage rice (Cabbage fried rice),½ cup rice ((uncooked)) 2 cups cabbage (chopped ) ¼ cup Green peas ((optional)) 2 green chilies ((deseeded & slit)) 1½ tbsp olive oil (or any oil) 2 to 3 cloves garlic (chopped finely) ½ to ¾ tsp rice vinegar ((or apple vinegar)) Salt ( as needed) ¼ tsp black pepper ((crushed)) 1 to 2 tsps soya sauce ((optional)) ,vegetarian,spicy,-1,Indo-chinese
+Lemon chicken recipe | how to make lemon chicken recipe | chicken starter,"300 grams chicken (boneless cubes or breast) 1 ½ tbsp oil 1 tsp ginger paste 1 ½ to 2 tbsp lemon juice salt ( as needed) ¼ tsp lemon zest ( (optional)) ¾ tsp red chili powder 1/8 tsp turmeric ½ tbsp oil 1 tbsp ginger (chopped or minced ) ½ tbsp garlic 1 green chili ( slit) 1 onion (large , chopped) ½ tsp sugar 1 tsp cajun spice mix ( or garam masala) ½ tbsp soya sauce 1 Handful celery ( or mint or coriander leaves) ",non vegetarian,spicy,-1,Indo-chinese
+Spring rolls recipe | How to make veg spring rolls,3 cups cabbage (shredded) 1 medium carrot (about ½ cup shredded) ¼ cup bell pepper (or capsicum julienned) 2 sprigs spring onions ((white & green separated)) 1 to 2 tsps olive oil 1 to 2 tsp soya sauce (or soy sauce) 1 tsp vinegar ¼ to ½ tsp pepper powder or crushed salt very little 1 cup cooked noodles (or half noodle cake (optional)) 6 spring roll wrappers (frozen) 1 cup oil ( for deep frying or 1 tbsp oil for baking) ,vegetarian,spicy,-1,Indo-chinese
+Veg manchurian recipe,"1 ¼ cup cabbage (finely chopped) ½ cup carrot (grated (1 medium)) ¼ cup French beans ((finely chopped, can skip but adds flavor)) 2 tablespoons capsicum ( grated or minced) ¼ cup spring onions ( finely chopped) 3 tablespoons cornstarch ((white corn flour)) 3 tablespoons all-purpose flour ((maida) (prefer organic)) ¼ to ½ cup bread crumbs ((optional, for extra crisp, refer notes)) ¼ to ½ teaspoon pepper ( crushed) 1 teaspoon ginger garlic paste 2 pinches salt ((very little)) Oil (as needed for frying) 1½ tablespoons oil ¾ tablespoon garlic (finely chopped) ½ tablespoon ginger (finely chopped) ¼ cup spring onions ( finely chopped) ¼ cup bell peppers ((capsicum) finely chopped) 1 tablespoons soya sauce (or tamari) 2 tablespoons red chili sauce ((or any hot sauce, adjust to taste)) 1 tablespoon ketchup ((optional)) 1 teaspoon vinegar ( or as needed (or apple cider vinegar)) ¾ tablespoon cornstarch ( (white corn flour or arrowroot powder (1 tsp for dry)) ¼ cup water ( to dissolve cornstarch(2 tbsps for dry)) 1 cup water ( or veg stock for gravy (½ cup for dry)) salt ( as needed) 1 to 1 ½ teaspoon sugar ¼ to ½ teaspoon pepper (coarsely crushed) ½ to ¾ teaspoon red chili powder ( or 1 tsp red chili paste (optional, used for color)) 1 ½ tablespoons water ( to make chili paste) ",vegetarian,spicy,-1,Indo-chinese
+Schezwan sauce,25 to 28 dried red chilies (1 cup (less spicy variety like byadgi)) 1 cup hot water ( to soak chilies) ¼ cup oil ((preferably sesame oil)) 2 tbsps garlic (chopped finely) 1 tbsp ginger (chopped finely) 8 to 10 sichuan peppercorn (crushed or ground (optional)) 3 tbsps onions (chopped very finely - 1 small) ½ cup water (for sauce) 1 to 1 ½ tbsp sugar ((more if desired)) ¾ to 1 tsp salt ((I used 1 tsp sea salt)) ¾ to 1 tbsp soya sauce (prefer naturally brewed soy sauce) ¾ to 1 tbsp vinegar ((rice or apple cider)) ¼ tsp pepper powder ¼ cup chopped celery ((optional)) 2 tbsp tomato sauce (or ketchup) ,vegetarian,spicy,-1,Indo-chinese
+Chilli paneer (restaurant style dry & gravy),"200 grams paneer ((cubed to ¾ by ¾ inch pieces)) ¼ teaspoon red chilli powder ((kashmiri or less spicy kind) (optional)) 3 tablespoons cornstarch ((white corn flour)) 3 tablespoons all-purpose flour ((maida) (optional)) ⅛ teaspoon black pepper ((crushed or ground)) ⅛ teaspoon salt ((adjust to taste)) water (( as needed)) 3 to 4 tablespoon oil ((as needed for shallow frying)) 1 tablespoon soya sauce ((naturally brewed or organic)) 2 tablespoons red chilli sauce ((or 1 tbsp hot sauce or green chilli sauce)(adjust to taste)) 2 tablespoons tomato ketchup ½ teaspoon vinegar ((i use apple cider)) ½ teaspoon red chili powder ((or red chilli paste, optional)) 1 teaspoon sugar ((adjust to taste)) 1 tablespoon garlic ((finely chopped )) 2 tablespoon spring onions ((greens chopped )) 2 tablespoon spring onion ((whites chopped)) ½ cup capsicum ((bell pepper) cubed ) 1 medium onion ((cubed, layers separated)) 1 green chilies ((slit and deseeded)) ¼ teaspoon black pepper ((crushed black pepper)) 1 teaspoon cornstarch ((2 tsps for more gravy)) ½ cup water ((1 cup for more gravy) (adjust as needed)) ",vegetarian,spicy,-1,Indo-chinese
+Schezwan fried rice,1½ cups rice (uncooked (any premium quality)) ¼ cup spring onions (or onions) ¾ cup carrots (fine chopped (1 small) (optional)) ¾ cup french beans (fine chopped (4 medium)(optional)) ¾ cup capsicum (chopped or (½ bell pepper)) 1½ tablespoons oil ½ tablespoon ginger (chopped) 1 tablespoon garlic ( chopped) 1 medium onion (chopped finely) 2 tablespoons celery (chopped finely (optional)) 1½ tablespoons oil 1½ tablespoons soya sauce 1 tablespoon tomato ketchup ½ to ¾ tablespoons vinegar ¾ to 1 tablespoon red chili powder (mixed with 3 tbsps water (or 1 tbsp red chilli paste)) ½ tablespoon sugar ½ to ¾ teaspoon salt ( as needed) ¾ to 1 teaspoon Sichuan pepper corn ((or ½ tsp black pepper powder)) 3 tablespoons water ( to cook the sauce) ,vegetarian,spicy,-1,Indo-chinese
+Hakka noodles recipe,1 pack hakka noodles ((150 grams)) 2 tablespoons oil ((preferably sesame oil)) 1 tablespoon garlic (chopped finely) 2 to 3 spring onion stalks ((greens & whites separated)) 1 medium onion (sliced ) 1 green chilli (chopped (optional)) 1 small carrot (thin juliennes ) ½ to ¾ cup capsicum ((bell pepper) julienne) 6 french beans (chopped finely) ½ cup cabbage (finely shredded (optional)) 1¼ tablespoon soya sauce (organic) 1 teaspoon rice vinegar ((substitute with apple cider)) ¼ teaspoon black pepper ½ teaspoon Salt ((adjust to taste)) 1 tablespoon hot sauce ((Use your favorite sauce) (optional)) ½ to 1 tablespoon chilli oil ((optional)) ,vegetarian,spicy,-1,Indo-chinese
+Baby Corn Manchurian Recipe | How to make baby corn manchurian,"200 grams baby corn 2 tbsp corn flour 2 tbsp plain flour (or maida (prefer organic, optional)) salt ( as needed) ¼ tsp pepper powder 1 tbsp oil ( as needed) ½ tbsp ginger (finely chopped , (optional)) 1 tbsp garlic (finely chopped ) 2 to 3 tbsp onions (finely chopped ) 1 green chili (optional - chopped) 2 to 3 tbsp spring onions (chopped ) 2 to 4 tbsp bell pepper (or capsicum chopped) ½ to 1 tbsp soya sauce ((prefer naturally brewed)) ¼ to ½ tbsp vinegar ((can use apple cider)) ¾ to 1 ½ tbsp tomato sauce (or ketchup (adjust as needed)) ¾ to 1 ½ tbsp chilli sauce ((adjust as needed)) 2 tbsp spring onion greens ",vegetarian,spicy,-1,Indo-chinese
+"chilli garlic fried rice, how to make chilli garlic veg fried rice","1 cup rice (, long grain . (uncooked)) 4 garlic cloves (, large , about 1.5 tbsp chopped finely) 2 to 4 red chilies ( deseeded) ½ chili ( , broken , deseeded for seasoning) 1.5 to 2 tbsp olive oil ½ tsp sugar ¾ to 1 tbsp soya sauce ( (adjust as needed)) 1 ½ tsp vinegar ( (adjust as needed)) Salt ( as needed) 1 carrot (, medium , ½ to ¾ cup chopped) ¼ capsicum (, medium , ¼ to ½ cup chopped) 5 to 6 beans ( chopped finely) 2 sprigs spring onions ( (green & white separated)) ",vegetarian,spicy,-1,Indo-chinese
+Chilli prawns,"1 ½ tbsp sugar ½ tsp salt (preferably sea salt) 1 cup water ¼ tsp pepper 1 tbsp corn flour 1 tbsp plain flour (or maida (organic or unbleached)) 1 ½ tbsps oil (for frying prawns) 1 tbsp olive (or sesame oil for sauce) ½ cup capsicum (cubed or bell pepper) ¼ cup Spring onions (or ½ cup cubed onions layers seperated or as desired) 1 tbsp garlic (chopped ) 1 to 2 green chili (slit ) 1 ½ tbsps. Chilli sauce ((I use sweet & hot chilli sauce, refer notes)) 1 to 1 ½ tsp soya sauce ((low salt)) 1 to 1 ½ tsp vinegar 1 tsp chili powder ( with 2 tbsps water or 1 tbsp chili paste) 250 grams deveined prawns ( about 8 to 12 large) ½ tsp pepper ( crushed) ½ tsp sugar ",non vegetarian,spicy,-1,Indo-chinese
+Paneer fried rice,"1 cup rice ((or 2 to 2½ cups cooked rice)) 2 tablespoons oil ((divided)) ¾ to 1 cup paneer ((cold, cubed)) 2 to 3 tablespoons Thick curd ((plain greek yogurt)) ½ teaspoon ginger garlic paste ½ teaspoon red chilli powder ¼ to ½ teaspoon garam masala ⅛ teaspoon turmeric ¼ teaspoon salt ((more to adjust)) ¼ to ½ cup spring onions ((chopped, greens and whites separated)) ½ cup carrot ((chopped)) ¼ to ½ cup bell peppers ¼ to ½ teaspoon black pepper ((adjust to taste)) 2 cloves garlic (chopped) 1 green chilli (chopped) 1 to 1½ tablespoon soya sauce ((more if required)) ",vegetarian,spicy,-1,Indo-chinese
+Cabbage stir fry,3 cups cabbage (julienne or shredded) 1 cup carrots (julienne or shredded) 1 cup bell peppers (julienne) 1 to 2 green chilies (slit (skip if making for kids)) 2 garlic cloves (chopped finely) 2 tbsps olive oil (or sesame oil or any oil) 1 tsp pepper (coarse crushed ) Salt ( as needed) ½ tsp soya sauce ((organic or naturally brewed)) ½ tsp vinegar ((like apple cider)) ,vegetarian,spicy,-1,Indo-chinese
+schezwan chicken fried rice recipe | spicy chicken fried rice,"1/2 cup rice 150 grams chicken (boneless ) 1/4 tsp olive oil ½ tbsp ginger (minced , (adjust to suit your taste)) ½ tbsp garlic (minced , (adjust to suit your taste)) ¼ to ½ cup veggies ( like bell pepper, spring onions, and carrots) ¾ tsp red chili powder ( or 1 tsp red chili paste) 2 to 3 schezwan ( or sichuan pepper corn or 1/4 tsp coarsely crushed pepper) 3/4 tbsp olive oil ½ tbsp ginger (finely chopped or minced ) ½ tbsp garlic (finely chopped or minced ) 2 tbsp onions (finely chopped ) ½ to ¾ tbsp soya sauce 1 tsp vinegar ½ tsp sugar Salt ( as needed) 2 tbsp water ",non vegetarian,spicy,-1,Indo-chinese

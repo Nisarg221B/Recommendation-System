@@ -1,0 +1,27 @@
+{% extends "sitebase.html" %}
+{% block title %}
+  <title>Home</title>
+{% endblock %}
+{% block content %}
+{% load crispy_forms_tags %}
+<br> <br>
+<div class="limiter">
+    <div class="container-login100">
+        <div class="wrap-login100">
+            <h3 class="whiteh3"> Choose a Menu Item to get similar recommendations</h3>
+            <form class="form-group" action="{% url 'Reco:showMenu' %}" method="POST">
+                {% csrf_token %}
+                <select name="selected_item" id="selected_item" class="mySelectArrow" style="width: 20rem;">
+                    {% for t in menu %}
+                    <option value={{t.itemId}}>{{t.name}}</option>
+                    {% endfor %}
+                </select>
+                <input type="hidden" id="model" name="model" value="{{m}}">
+                <button class="btn btn-primary btn-block" type="submit" style="width: 12rem; margin-top: 1rem;" >Submit</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+{% endblock %}

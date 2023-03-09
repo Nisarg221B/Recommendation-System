@@ -1,0 +1,44 @@
+{% extends "sitebase.html" %}
+{% block title %}
+  <title>Rate Items</title>
+{% endblock %}
+{% block content %}
+<br> <br>
+<div class="container">
+    <!-- <h3> Logged in as User.username </h3> -->
+    <h3 class="whiteh3">Rate Your Order </h3>
+    <div>
+        <form class="form-group" action="{% url 'Reco:rateView' %}" method="POST">
+            {% csrf_token %}
+
+        <div class="tablecontainer">
+            <div class="rowhead">
+                <div class="mitem">Item Name
+                </div>
+                <div class="mitem">Price(INR)
+                </div>
+                <div class="mitem">Restaurant
+                </div>
+                <div class="mitem">Rating
+                </div>
+        </div>
+    {% for t in orders %}
+        <div class="rowcontainer">
+            <div class="mitem">{{t.0}}
+            </div>
+            <div class="mitem">{{t.1}}
+            </div>
+            <div class="mitem">{{t.2}}
+            </div>
+            <div class="mitem"><input type="number" step="1" min="1" max="5" name="ratings" id="{{t.3}}" multiple>
+            </div>
+            <input type="hidden" id="{{t.3}}" name="ids" value="{{t.3}}" multiple>
+        </div>
+    {% endfor %}
+</div>
+        <button class="btn btn-primary btn-block" type="submit" style="width: 12rem; margin: 1rem 0 0 0.5rem; " >Submit Ratings</button>
+        </form>
+        
+    </div>
+</div>  
+{% endblock %}

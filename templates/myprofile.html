@@ -1,0 +1,23 @@
+{% extends "sitebase.html" %}
+{% block title %}
+  <title>My Profile</title>
+{% endblock %}
+{% block content %}
+{% load crispy_forms_tags %}
+<br> <br>
+<div class="container">
+    <h3 class="whiteh3"> My Profile </h3>
+    <div class="card ">
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item">Name: {{User.name}}</li>
+          <li class="list-group-item">Diet: {{User.diet}}</li>
+          <li class="list-group-item">Preferred Flavour: {{User.flavour}}</li>
+          <li class="list-group-item">Preferred Ingredients: {{User.ingredient}} </li>
+          <li class="list-group-item">Region: {{User.region}}</li>
+          <li class="list-group-item">State: {{User.state}}</li>
+          <li class="list-group-item">Current Satisfaction Level (1-5): {{sat}}</li>
+        </ul>
+      </div>
+</div>
+
+{% endblock %}

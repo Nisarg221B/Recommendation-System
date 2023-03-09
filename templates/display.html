@@ -1,0 +1,54 @@
+{% extends "sitebase.html" %}
+{% block title %}
+  <title>Recommended Items</title>
+{% endblock %}
+{% block content %}
+<br> <br>
+<div class="container">
+    <!-- <h3> Logged in as User.username </h3> -->
+    <h3 class="whiteh3"> Our recommendations for you:</h3>
+    <div>
+        <form class="form-group" action="{% url 'Reco:orderView' %}" method="POST">
+            {% csrf_token %}
+            <div class="tablecontainer">
+                <div class="rowhead">
+                    <div class="sitem">Select
+                    </div>
+                    <div class="litem">Item Name
+                    </div>
+                    <div class="mitem">Cuisine
+                    </div>
+                    <div class="sitem">Price
+                    </div>
+                    <div class="mitem">Restaurant
+                    </div>
+                    <div class="sitem">Rating
+                    </div>
+                    <div class="litem">Address
+                    </div>
+            </div>
+        {% for t in dishes %}
+            <div class="rowcontainer">
+                <div class="sitem"><input type="checkbox" name="order" value="{{t.7}}" id="{{t.7}}" class="checkbo">
+                </div>
+                <div class="litem"><label for="{{t.7}}">{{t.0}}</label>
+                </div>
+                <div class="mitem">{{t.5}}
+                </div>
+                <div class="sitem">{{t.2}}
+                </div>
+                <div class="mitem">{{t.3}}
+                </div>
+                <div class="sitem">{{t.8}}
+                </div>
+                <div class="litem">{{t.6}}
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+        <button class="btn btn-primary btn-block" type="submit" style="width: 12rem; margin: 1rem 0 0 0.5rem; " >Rate Recommendations</button>
+        </form>
+        
+    </div>
+</div>  
+{% endblock %}
